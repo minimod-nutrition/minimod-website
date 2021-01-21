@@ -1,0 +1,12 @@
+site_name: "Micronutrient Intervention Modeling Project"
+
+nav:
+  - Home: index.md
+
+
+theme:
+  logo: pictures/logo_size_new.jpg
+  name: material
+  palette:
+    primary: teal
+    scheme: preference
