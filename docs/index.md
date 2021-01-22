@@ -1,3 +1,73 @@
+# Welcome!
+
+<!-- Carousel wrapper -->
+<div
+  id="carouselBasicExample"
+  class="carousel slide carousel-fade"
+  data-mdb-ride="carousel"
+>
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-mdb-target="#carouselBasicExample" data-mdb-slide-to="0" class="active"></li>
+    <li data-mdb-target="#carouselBasicExample" data-mdb-slide-to="1"></li>
+    <li data-mdb-target="#carouselBasicExample" data-mdb-slide-to="2"></li>
+  </ol>
+
+  <!-- Inner -->
+  <div class="carousel-inner">
+    <!-- Single item -->
+    <div class="carousel-item active">
+      <img
+        src="pictures/slider_hki_vitamin-a-supplementation-kenya.jpg__280x330_q85_crop_subsampling-2_upscale.jpg"
+        alt="..."
+        style="width:280px; height:330px;"
+        class="center"
+      />
+    </div>
+
+    <div class="carousel-item">
+      <img
+        src="pictures/fortified_flour.jpg__280x330_q85_crop_subsampling-2_upscale.jpg"
+        alt="..."
+        style="width:280px; height:330px;"
+        class="center"
+      />
+    </div>
+
+    <!-- Single item -->
+    <div class="carousel-item">
+      <img
+        src="pictures/papaya5.jpg__280x330_q85_crop_subsampling-2_upscale.jpg"
+        alt="..."
+        style="width:280px; height:330px;"
+        class="center"
+      />
+    </div>
+  </div>
+  <!-- Inner -->
+
+  <!-- Controls -->
+  <a
+    class="carousel-control-prev"
+    href="#carouselBasicExample"
+    role="button"
+    data-mdb-slide="prev"
+  >
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </a>
+  <a
+    class="carousel-control-next"
+    href="#carouselBasicExample"
+    role="button"
+    data-mdb-slide="next"
+  >
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </a>
+</div>
+<!-- Carousel wrapper -->
+
 ## Project Goal
 
 To develop and use a tool to more efficiently plan and manage national and sub-national micronutrient intervention programs. 

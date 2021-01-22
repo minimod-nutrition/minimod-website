@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../minimod.ucdavis.edu-archive"
+		},
+		{
+			"path": "../amichuda-website-mkdocs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "minimod.ucdavis.edu-archive"
+	}
+}

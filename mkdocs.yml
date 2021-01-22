@@ -7,6 +7,16 @@ nav:
 theme:
   logo: pictures/logo_size_new.jpg
   name: material
-  palette:
-    primary: teal
-    scheme: preference
+  features:
+    - navigation.tabs
+
+extra_javascript:
+    - https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.1.0/mdb.min.js
+
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/colors.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css
+  - https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.1.0/mdb.min.css
+
+
