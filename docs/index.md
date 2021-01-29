@@ -1,4 +1,8 @@
-# Welcome!
+---
+hide:
+  - navigation
+---
+
 
 <!-- Carousel wrapper -->
 <div
@@ -111,11 +115,7 @@ Cameroon and Ethiopia
 
 Full MINIMOD tool making use of individual dietary intake and other primary data, and "simplified" MINIMOD tool making use of other available (secondary) data
 
-## For more information
-
-Contact [Dr. Stephen A. Vosti](mailto:vosti@primal.ucdavis.edu) or [Dr. Reina Engle-Stone](mailto:renglestone@ucdavis.edu), co-Pls of the MINIMOD project.
-
-### Project Partners 
+## Project Partners 
 
 Helen Keller International-Cameroon, Ethiopian Public Health Institute, and the Johns Hopkins University Bloomberg School of Public Health.
 

@@ -1,15 +1,26 @@
+/* // Color definitions */
 :root {
-    --md-primary-fg-color:        #FFBF00;
-    --md-primary-fg-color--light: #FFD24C;
-    --md-primary-fg-color--dark:  #033266;
-    --md-primary-bg-color:        #022851;
-    --md-accent-fg-color:         #033266;
-    --md-accent-bg-color:         #033266;
-    --md-typeset-color:             var(--md-default-fg-color);
 
-    --md-footer-fg-color:              #022851;
-    --md-footer-bg-color--dark:              #022851;
-    --md-footer-bg-color:              #022851;
+  /*// Default color shades*/
+  --md-default-fg-color:               #6884A3;
+  --md-default-bg-color:              hsla(0, 0%, 100%, 1);
+  --md-default-bg-color--light:        hsla(0, 0%, 100%, 0.7);
+  --md-default-bg-color--lighter:      hsla(0, 0%, 100%, 0.3);
+  --md-default-bg-color--lightest:     hsla(0, 0%, 100%, 0.12);
 
+  /* // Primary color shades */
+  --md-primary-fg-color:               #6884A3;
+  --md-primary-bg-color:               hsla(0, 0%, 100%, 1);
+  --md-primary-bg-color--light:        hsla(0, 0%, 100%, 0.7);
+  
+
+  /* // Accent color shades */
+  --md-accent-fg-color:                #FFBF00;
+  --md-accent-fg-color--transparent:  hsla(0, 0%, 100%, 1);
+  --md-accent-bg-color:                hsla(0, 0%, 100%, 1);
+  
+  --md-footer-fg-color:              hsla(0, 0%, 100%, 1);
+  --md-footer-bg-color:             white;
+  --md-footer-bg-color--dark:              hsla(0, 0%, 100%, 1);
 }
 
