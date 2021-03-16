@@ -17,13 +17,6 @@
   color : #FFD24C
 }
 
-.md-header-nav__button.md-logo {
-  display: block;
-  width: 50%;
-  /* height: 1.2rem; */
-  fill: currentColor;
-}
-
 .md-nav__link {
   color : #1D4776
 }
