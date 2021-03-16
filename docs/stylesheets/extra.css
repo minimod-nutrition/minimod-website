@@ -19,8 +19,8 @@
 
 .md-header-nav__button.md-logo img {
   display: block;
-  width: 7rem;
-  height: 1.2rem;
+  width: 50%;
+  /* height: 1.2rem; */
   fill: currentColor;
 }
 
