@@ -1,0 +1,14 @@
+
+|                                             |                       |
+|---------------------------------------------|-----------------------|
+|![](../pictures/vosti_steve.jpg){align=left} | **Dr. Stephen Vosti** <br> Adjunct Professor, Department of Agricultural and Resource Economics, UC Davis <br>   Co-PI, Economics, MINIMOD Project <br> [:material-email:](mailto:vosti@primal.ucdavis.edu) [:material-web:](http://are.ucdavis.edu/people/faculty/stephen-vosti/) [:material-book:](https://scholar.google.com/citations?user=5tviTWQAAAAJ&hl=en)|
+| ![](../pictures/engle-stone_reina.jpg){align=left} | **Dr. Reina Engle-Stone** <br> Assistant Professor, Department of Nutrition, UC Davis <br> Co-PI, Nutrition, MINIMOD Project <br> [:material-email:](mailto:renglestone@ucdavis.edu) [:material-web:](http://nutrition.ucdavis.edu/people/faculty/englestone_reina.html) [:material-book:](https://scholar.google.com/citations?user=3IdJLu8AAAAJ&amp;hl=en) |
+|![](../pictures/justin_kagin.jpg){align=left} | **Dr. Justin Kagin** <br> Economic Consultant, Kagin's Consulting <br> Economic programming and cost analysis, MINIMOD Project <br> [:material-email:](mailto:jkagin@kaginsconsulting.com) [:material-web:](http://kaginsconsulting.com/) [:material-book:](https://scholar.google.com/citations?user=vCi_-mYAAAAJ&hl=en&citsig=AMstHGQebrE9iWPgLi2Qh1HJxLP4QQVFSQ) | 
+|![](../pictures/luo_haqui.jpg) | **Dr. Hanqi Luo** <br> Senior Biostatistician, Emory University <br>  Nutrition benefits estimation, MINIMOD Project <br> [:material-email:](mailto:luohanqi@gmail.com) [:material-book:](https://scholar.google.com/citations?user=cVBKMiwAAAAJ&amp;hl=en) | 
+| ![](../pictures/tarini_ann.jpg) | **Ann Tarini** <br> Public Health Nutrition Consultant <br>  Policy engagment in Cameroon, MINIMOD Project <br> [:material-email:](mailto:tariniann@gmail.com) |
+| ![](../pictures/adams_katie.jpg) | **Dr. Katherine Adams** <br> Assistant Project Scientist, Department of Nutrition, UC Davis <br> Cost analysis and simplified tool development, MINIMOD Project <br> [:material-email:](mailto:kpittenger@ucdavis.edu) [:material-book:](https://scholar.google.com/citations?user=_j3Yh-YAAAAJ&hl=en) | 
+![](../pictures/french_caitlin.jpg) | **Caitlin French** <br> Graduate Student Researcher, Department of Nutrition, UC Davis <br> Nutrition benefits estimation, MINIMOD Project <br> [:material-email:](mailto:cdfrench@ucdavis.edu) | 
+|![](../pictures/woldegebreal_demewoz.jpg) | **Demewoz Haile Woldegebreal** <br> Graduate Student Researcher, Department of Nutrition, UC Davis <br>  Nutrition benefits estimation, MINIMOD Project <br> [:material-email:](mailto:dewolde@ucdavis.edu) | 
+|![](../pictures/brown_kenneth.jpg) | Distinguished Professor Emeritus, Department of Nutrition, UC Davis <br>  Nutrition policy engagement, MINIMOD Project <br> [:material-email:](mailto:Ken.Brown@gatesfoundation.org)
+
+    

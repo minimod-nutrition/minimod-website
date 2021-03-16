@@ -27,3 +27,8 @@ For MINIMOD modeling activities in Cameroon, key micronutrient policy issues for
     <img src="../../../pictures/scope_of_modeling.png__1472x623_q85_crop_subsampling-2_upscale.png">
     <figcaption>The scope of MINIMOD modeling activities in Cameroon to date. SBCC, social and behavior change communication; WRA, women of reproductive age (15-49).</figcaption>
 </figure>
+
+## Collaborating Organizations
+
+- [Helen Keller International](http://www.hki.org/)
+- [Johns Hopkins University](https://www.jhu.edu/)

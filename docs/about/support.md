@@ -1,0 +1,3 @@
+The MINIMOD Project is supported in part by a grant from the [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/) to the University of California, Davis.
+
+Additional support has been provided by the [Michael and Susan Dell Foundation](https://www.msdf.org/), [Sight and Life](https://sightandlife.org/), and the [Mars Corporation’s](http://www.mars.com/global/home) Gift for Interdisciplinary Training and Research.
