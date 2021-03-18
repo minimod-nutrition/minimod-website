@@ -34,7 +34,7 @@ theme:
   custom_dir: overrides
 
 extra_javascript:
-    - https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.1.0/mdb.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.1.0/mdb.min.js
 
 extra_css:
   - stylesheets/extra.css
