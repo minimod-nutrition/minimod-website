@@ -11,19 +11,25 @@ nav:
     - Cameroon:
       - Background and Policy Issues: countries/cameroon/background.md
       - Cameroon Micronutrient Intervention Programs: countries/cameroon/programs.md
-      - Models: countries/cameroon/models.md
       - countries/cameroon/policy_engagement.md
     - Ethiopia: 
       - countries/ethiopia/background.md
+  - Tools: 
+      - Cost Models: tools/cost_models.md
+      - Benefits Models: tools/benefits_models.md
+      - Optimization: tools/optimization.md
+      - SD Tool: tools/sd_tool.md
   - Publications: publications.md
+  - Collaborations: collaborations.md
   - Related Resources: related_resources.md 
-  - About Us:
-    - Directory: about/directory.md
-    - Sources of Support: about/support.md
   - Events: 
     - MINIMOD Hosted Events: events/events.md
     - Related Events: events/related_events.md
     - Other Events: events/other_activities.md
+  - Apps: apps.md
+  - About Us:
+    - Directory: about/directory.md
+    - Sources of Support: about/support.md
 
 theme:
   logo: pictures/ucdavis_logo_gold.png
