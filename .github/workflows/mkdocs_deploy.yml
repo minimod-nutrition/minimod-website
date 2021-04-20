@@ -15,4 +15,4 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install wheel mkdocs-material mkdocs mkdocs-git-revision-date-localized-plugin mkdocs-bibtex mkdocs-macros-plugin
-      - run: mkdocs gh-deploy --force
+      - run: mkdocs gh-deploy
