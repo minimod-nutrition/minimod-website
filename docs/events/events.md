@@ -26,3 +26,16 @@
 
 - 2013
     - Launching Workshop – Fall, 2013
+
+## Recent Presentations by MINIMOD Team Members
+
+- [Micronutrient Forum](http://micronutrientforum.org/) (Ethiopia and Mexico)
+- [Global Summit on Food Fortification](http://www.gainhealth.org/future-fortified/) (Arusha, Tanzania)
+- [IFPRI](http://www.ifpri.org/) ([Poverty, Health, and Nutrition Division Seminars](https://www.ifpri.org/division/poverty-health-and-nutrition-phnd))
+- [Affordable Nutritious Foods for Women](https://www.giz.de/en/worldwide/25670.html) (ANF4W) Partner Day (Germany)
+- [University of California, Davis](https://www.ucdavis.edu/) ([Nutrition](http://nutrition.ucdavis.edu/) and [Agricultural and Resource Economics departments](https://are.ucdavis.edu/), several)
+- [Tufts University](https://www.tufts.edu/) ([Friedman School](https://nutrition.tufts.edu/) Seminar Series)
+- [Sackler Institute](https://www.nyas.org/programs/the-sackler-institute-for-nutrition-science/) (Nutrition Modelers’ Forum)
+- [Johns Hopkins University](https://www.jhu.edu/) ([Bloomberg School of Public Health](https://www.jhsph.edu/))
+- [Copenhagen Consensus](http://www.copenhagenconsensus.com/) ([Haiti Prioritization](http://www.copenhagenconsensus.com/Haiti-Priorise) Exercise)
+- [USAID](https://www.usaid.gov/)-[World Food Programme](http://www1.wfp.org/)-[Pan American Health Organization](http://www.paho.org/hq/) (Rice Fortification Conference)
