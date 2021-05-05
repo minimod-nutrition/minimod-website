@@ -9,24 +9,18 @@ nav:
     - overview/outreach.md
   - Focus Countries:
     - World Map: countries/worldmap.md
-    - Burkina Faso:
-      - countries/burkina_faso/background.md
+    - Burkina Faso: countries/burkina_faso/background.md
     - Cameroon:
       - Background and Policy Issues: countries/cameroon/background.md
       - Cameroon Micronutrient Intervention Programs: countries/cameroon/programs.md
       - countries/cameroon/policy_engagement.md
     - Ethiopia: 
       - countries/ethiopia/background.md
-    - Ghana:
-      - countries/ghana/background.md
-    - Haiti:
-      - countries/haiti/background.md
-    - Malawi:
-      - countries/malawi/backgorund.md
-    - Nigeria:
-      - countries/Nigeria/background.md
-    - Senegal: 
-      - countries/senegal/background.md
+    - Ghana: countries/ghana/background.md
+    - Haiti: countries/haiti/background.md
+    - Malawi: countries/malawi/backgorund.md
+    - Nigeria: countries/Nigeria/background.md
+    - Senegal: countries/senegal/background.md
   - Tools: 
       - Cost Models: tools/cost_models.md
       - Benefits Models: tools/benefits_models.md

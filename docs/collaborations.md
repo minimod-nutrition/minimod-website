@@ -1,5 +1,3 @@
-**More to come soon!**
-
 ## Other Key Partners
 
 - [UNICEF Head Quarters](https://www.unicef.org/) (NYC) 
