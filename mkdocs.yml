@@ -36,8 +36,8 @@ nav:
   - News: news.md
   - Related Resources: related_resources.md 
   - Events: 
-    - MINIMOD Hosted Events: events/events.md
-    - Related Events: events/related_events.md
+    - MINIMOD Events: events/events.md
+    - Research and Policy Engagement Events: events/research_events.md
     - Other Events: events/other_activities.md
   - Apps: apps.md
   - About Us:
