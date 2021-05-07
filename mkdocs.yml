@@ -33,7 +33,8 @@ nav:
         - Cost Models: tools/minimod/cost_models.md
         - Benefits Models: tools/minimod/benefits_models.md
         - Optimization: tools/minimod/optimization.md
-    - MINIMOD SD Tool: tools/minimod_sd.md
+    - MINIMOD SD Tool: 
+      - tools/minimod_sd.md
       - Cost Models: 
         - tools/minimod_sd/cost_models.md
         - Benefits Models: tools/minimod_sd/benefits_models.md
