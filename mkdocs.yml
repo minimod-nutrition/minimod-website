@@ -21,11 +21,16 @@ nav:
     - Malawi: countries/malawi/backgorund.md
     - Nigeria: countries/Nigeria/background.md
     - Senegal: countries/senegal/background.md
-  - Tools: 
-      - Cost Models: tools/cost_models.md
-      - Benefits Models: tools/benefits_models.md
-      - Optimization: tools/optimization.md
-      - SD Tool: tools/sd_tool.md
+  - Tools:
+    - MINIMOD: tools/minimod.md
+      - Cost Models: tools/minimod/cost_models.md
+      - Benefits Models: tools/minimod/benefits_models.md
+      - Optimization: tools/minimod/optimization.md
+    - MINIMOD SD Tool: tools/minimod_sd.md
+      - Cost Models: tools/minimod_sd/cost_models.md
+      - Benefits Models: tools/minimod_sd/benefits_models.md
+      - Optimization: tools/minimod_sd/optimization.md
+    - SD Tool: tools/minimod/sd_tool.md
   - Publications: publications.md
   - Collaborations: collaborations.md
   - News: news.md
