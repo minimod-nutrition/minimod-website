@@ -14,9 +14,7 @@ hide:
   <ol class="carousel-indicators">
     <li data-mdb-target="#carouselBasicExample" data-mdb-slide-to="0" class="active"></li>
     <li data-mdb-target="#carouselBasicExample" data-mdb-slide-to="1"></li>
-    <li data-mdb-target="#carouselBasicExample" data-mdb-slide-to="2"></li>
-    <li data-mdb-target="#carouselBasicExample" data-mdb-slide-to="3"></li>
-    <li data-mdb-target="#carouselBasicExample" data-mdb-slide-to="4"></li>
+
 
   </ol>
 
@@ -51,47 +49,7 @@ hide:
       </figure>
     </div>
 
-    <!-- Single item -->
-    <div class="carousel-item">
-    <figure>
-    <a href="https://www.ucdavis.edu/news/nutrition-proposal-has-transformative-potential-haiti">
-      <img
-        src="pictures/reina_and_steve_wheat.jpg"
-        alt="..."
-        style="width:280px; height:330px;"
-        class="center"
-      />
-      </a>
-      <figcaption>Nutrition Proposal Has ‘Transformative Potential’ for Haiti</figcaption>
-      </figure>
-    </div>
-    <div class="carousel-item">
-      <figure>
-      <a href="http://blogs.ucdavis.edu/egghead/2017/08/29/haiti-adopts-food-fortification-following-uc-davis-advice/">
-      <img
-        src="pictures/papaya5.jpg__280x330_q85_crop_subsampling-2_upscale.jpg"
-        alt="..."
-        style="width:280px; height:330px;"
-        class="center"
-      />
-      </a>
-      <figcaption>Haiti Adopts Food Fortification, Following UC Davis Advice</figcaption>
-      </figure>
-    </div>
-    <div class="carousel-item">
-      <figure>
-      <a href="https://www.project-syndicate.org/commentary/haiti-most-effective-policy-interventions-by-bjorn-lomborg-2017-05">
-      <img
-        src="pictures/9b3bc5a477355d99ee08c35d744b3424.2-1-super.1.jpg"
-        alt="..."
-        style="width:50%;"
-        class="center"
-      />
-      </a>
-      <figcaption>Changing the Narrative About Haiti</figcaption>
-      </figure>
-    </div>
-
+    
   </div>
   <!-- Inner -->
 
