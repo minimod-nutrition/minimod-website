@@ -28,11 +28,11 @@ nav:
     - Senegal: 
       - countries/senegal/background.md
   - Tools:
-    - MINIMOD: 
-        - tools/minimod.md
-        - Cost Models: tools/minimod/cost_models.md
-        - Benefits Models: tools/minimod/benefits_models.md
-        - Optimization: tools/minimod/optimization.md
+    - MINIMOD:
+        - tools/minimod_tool.md
+        - Cost Models: tools/minimod_tool/cost_models.md
+        - Benefits Models: tools/minimod_tool/benefits_models.md
+        - Optimization: tools/minimod_tool/optimization.md
     - MINIMOD SD Tool: 
       - tools/minimod_sd.md
       - Cost Models: 
