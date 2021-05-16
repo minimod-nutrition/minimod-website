@@ -39,6 +39,14 @@ hide:
 
 [Engle-Stone, R., A. Perkins, A. Clermont, N. Walker, M. J. Haskell, S. A. Vosti and K. H. Brown.  2017.  Estimating Lives Saved by Achieving Dietary Micronutrient Adequacy, with Focus on Vitamin A Intervention Programs in Cameroon.  Journal of Nutrition, Volume 147, Issue 11, 1 November 2017, Pages 2194S–2203S, https://doi.org/10.3945/jn.116.242271.](https://academic.oup.com/jn/article/147/11/2194S/4743206)
 
+Noshirvan, A.; Brenda, W.; Luo, H.; Justin, K.; Vosti, S.; Ndjebayi, A.; Guintang Assiene, J.; Teta, I.; Nankap, M.; Engle-Stone, R. Predicted Effects and Cost-Effectiveness of Wheat Flour Fortification for Reducing Micronutrient Deficiencies, Maternal Anemia, and Neural Tube Defects in Yaoundé and Douala, Cameroon. Food and Nutrition Bulletin. Accepted.
+
+[Luo, H.; Dodd, K. W.; Arnold, C. D.; Engle-Stone, R. Introduction to the SIMPLE Macro, a Tool to Increase the Accessibility of 24-Hour Dietary Recall Analysis and Modeling. The Journal of Nutrition 2021, 151 (5), 1329–1340. https://doi.org/10.1093/jn/nxaa440.](https://academic.oup.com/jn/article/151/5/1329/6165023)
+
+[French, C. D.; Arsenault, J. E.; Arnold, C. D.; Haile, D.; Luo, H.; Dodd, K. W.; Vosti, S. A.; Slupsky, C. M.; Engle-Stone, R.; The Variance Components of Nutrient Intakes Data Working Group; Engle-Stone, R.; French, C. D.; Arsenault, J. E.; Arnold, C. D.; Haile, D.; Wiesmann, D.; Martin-Prevel, Y.; Brouwer, I. D.; Daniels, M. C.; Nyström, C. D.; Löf, M.; Ndjebayi, A.; Palacios, C.; Prapkree, L.; Palmer, A.; Caswell, B. L.; Hn Brown, K.; Lietz, G.; Haskell, M.; Miller, J. Within-Person Variation in Nutrient Intakes across Populations and Settings: Implications for the Use of External Estimates in Modeling Usual Nutrient Intake Distributions. Advances in Nutrition 2021, 12 (2), 429–451. doi.org/10.1093/advances/nmaa114.](https://academic.oup.com/advances/article/12/2/429/5924502)
+
+[Haile, D.; Luo, H.; Vosti, S. A.; Dodd, K. W.; Arnold, C. D.; Engle-Stone, R. (2020) Micronutrient Fortification of Commercially Available Biscuits Is Predicted to Have Minimal Impact on Prevalence of Inadequate Micronutrient Intakes: Modeling of National Dietary Data from Cameroon. Current Developments in Nutrition. 4 (9), nzaa132. doi.org/10.1093/cdn/nzaa132](https://academic.oup.com/cdn/article/4/9/nzaa132/5890337)
+
 ## Related Publications
 
 [Engle-Stone, R.,  Nankap, M., Ndjebayi, A.O., Allen, L.H., Shahab-Ferdows, S., Hampel, D., Killilea, D.W., Gimou, M., Houghton, L.A., Friedman, A., Tarini, A., Stamm, R.A., and K.H. Brown.  “Iron, Zinc, Folate, and Vitamin B-12 Status Increased among Women and Children in Yaoundè and Douala, Cameroon, 1 Year after Introducing Fortified Wheat Flour.” The Journal of Nutrition, 7 June 2017. [E-pub ahead of print].](https://pubmed.ncbi.nlm.nih.gov/28592513/)
