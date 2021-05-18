@@ -40,7 +40,6 @@ nav:
       - Cost Models: tools/minimod_sd/cost_models.md
       - Benefits Models: tools/minimod_sd/benefits_models.md
       - Optimization: tools/minimod_sd/optimization.md
-    - SD Tool: tools/minimod/sd_tool.md
   - Publications: publications.md
   - Collaborations: collaborations.md
   - News: news.md
