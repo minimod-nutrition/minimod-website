@@ -8,6 +8,5 @@
 | ![](../pictures/adams_katie.jpg) | **Dr. Katherine Adams** <br> Assistant Project Scientist, Department of Nutrition, UC Davis <br> Cost analysis and simplified tool development, MINIMOD Project <br> [:material-email:](mailto:kpittenger@ucdavis.edu) [:material-book:](https://scholar.google.com/citations?user=_j3Yh-YAAAAJ&hl=en) | 
 ![](../pictures/french_caitlin.jpg) | **Caitlin French** <br> Graduate Student Researcher, Department of Nutrition, UC Davis <br> Nutrition benefits estimation, MINIMOD Project <br> [:material-email:](mailto:cdfrench@ucdavis.edu) | 
 |![](../pictures/woldegebreal_demewoz.jpg) | **Demewoz Haile Woldegebreal** <br> Graduate Student Researcher, Department of Nutrition, UC Davis <br>  Nutrition benefits estimation, MINIMOD Project <br> [:material-email:](mailto:dewolde@ucdavis.edu) | 
-|![](../pictures/brown_kenneth.jpg) | Distinguished Professor Emeritus, Department of Nutrition, UC Davis <br>  Nutrition policy engagement, MINIMOD Project <br> [:material-email:](mailto:Ken.Brown@gatesfoundation.org)
-
-    
+|![](../pictures/brown_kenneth.jpg) | **Ken Brown** <br> Distinguished Professor Emeritus, Department of Nutrition, UC Davis <br>  Nutrition policy engagement, MINIMOD Project <br> [:material-email:](mailto:Ken.Brown@gatesfoundation.org)
+|![](../pictures/michael_jarvis.jpeg) | **Michael Jarvis** <br> Research Consultant, UC Davis <br> MINIMOD Project <br> [:material-email:](mailto:mjarvis@ucdavis.edu) [:material-web:](www.linkedin.com/in/jarvis-michael) |
