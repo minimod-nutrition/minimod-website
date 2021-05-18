@@ -14,6 +14,12 @@ hide:
   <ol class="carousel-indicators">
     <li data-mdb-target="#carouselBasicExample" data-mdb-slide-to="0" class="active"></li>
     <li data-mdb-target="#carouselBasicExample" data-mdb-slide-to="1"></li>
+    <li data-mdb-target="#carouselBasicExample" data-mdb-slide-to="2"></li>
+    <li data-mdb-target="#carouselBasicExample" data-mdb-slide-to="3"></li>
+    <li data-mdb-target="#carouselBasicExample" data-mdb-slide-to="4"></li>
+    <li data-mdb-target="#carouselBasicExample" data-mdb-slide-to="5"></li>
+    <li data-mdb-target="#carouselBasicExample" data-mdb-slide-to="6"></li>
+    <li data-mdb-target="#carouselBasicExample" data-mdb-slide-to="7"></li>
 
 
   </ol>
@@ -48,6 +54,91 @@ hide:
       <figcaption>Fortifying Wheat Flour in Haiti</figcaption>
       </figure>
     </div>
+
+    <div class="carousel-item">
+    <figure>
+    
+      <img
+        src="pictures/fortified_wheat.jpeg"
+        alt="..."
+        style="width:600px; height:400px;"
+        class="center"
+      />
+      </a>
+      <figcaption>Freshly milled wheat flour is bagged. World Food Programme, 28 Jul. 2020. Taken by <a href="https://www.wfp.org/stories/wfp-saves-massive-stock-wheat-yemens-frontline">Mahmoud Fadel</a></figcaption>
+      </figure>
+    </div>
+
+    <div class="carousel-item">
+    <figure>
+    
+      <img
+        src="pictures/fortified_maize_option_2.jpeg"
+        alt="..."
+        style="width:744px; height:1024px;"
+        class="center"
+      />
+      </a>
+      <figcaption>Children walk home with sacks of fortified flour in Tanzania.  Sanku Project Healthy Children, 28 May 2020. Taken by <a href="https://www.nytimes.com/2020/05/28/opinion/coronavirus-africa-malnutrition.html">Malicky Boaz</a></figcaption>
+      </figure>
+    </div>
+
+    <div class="carousel-item">
+    <figure>
+    
+      <img
+        src="pictures/orange_flesh_sweet_potatoes.jpeg"
+        alt="..."
+        style="width:512px; height:384px;"
+        class="center"
+      />
+      </a>
+      <figcaption>Call for the cultivation of Orange-Flesh Sweet Potatoes (OFSP) in Ghana. ZAA Radio, 25 Aug. 2016. Taken by <a href="https://zaaradio.com/health/uds-lecturer-calls-for-presidential-initiative-on-cultivation-orange-flesh-sweet-potato/">Mohammed Ibrahim</a></figcaption>
+      </figure>
+    </div>
+
+    <div class="carousel-item">
+    <figure>
+    
+      <img
+        src="pictures/iron_fortified_beans.jpeg"
+        alt="..."
+        style="width:600px; height:450px;"
+        class="center"
+      />
+      </a>
+      <figcaption>Iron-fortified bean project in Rwanda to combat anemia in children. USUN Rome, 30 May 2018. Taken from <a href="https://twitter.com/USUNRome/status/1001845707379232769">USUN Rome</a></figcaption>
+      </figure>
+    </div>
+
+    <div class="carousel-item">
+    <figure>
+    
+      <img
+        src="pictures/fortified-oil.webp"
+        alt="..."
+        style="width:348px; height:217px;"
+        class="center"
+      />
+      </a>
+      <figcaption>Fortified oil with vitamin A. Global Alliance for Improved Nutrition, 1 Sept. 2012. Taken from <a href="https://www.gainhealth.org/taxonomy/term/25">GAIN</a></figcaption>
+      </figure>
+    </div>
+
+    <div class="carousel-item">
+    <figure>
+    
+      <img
+        src="pictures/fortified-oil.webp"
+        alt="..."
+        style="width:500px; height:286px;"
+        class="center"
+      />
+      </a>
+      <figcaption>Fortified bouillon cubes with two added micronutrients. UC Davis, 30 Nov. 2020. Taken by <a href="https://research.ucdavis.edu/ghana-clinical-trial/">Reina Engle-Stone</a></figcaption>
+      </figure>
+    </div>
+
 
     
   </div>
