@@ -129,7 +129,7 @@ hide:
     <figure>
     
       <img
-        src="pictures/fortified-oil.webp"
+        src="pictures/bouillon-cubes-fortified.jpeg"
         alt="..."
         style="width:500px; height:286px;"
         class="center"
