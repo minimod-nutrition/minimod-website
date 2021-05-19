@@ -75,7 +75,7 @@ hide:
       <img
         src="pictures/fortified_maize_option_2.jpeg"
         alt="..."
-        style="width:744px; height:1024px;"
+        style="width:363px; height:500px;"
         class="center"
       />
       </a>
@@ -115,7 +115,7 @@ hide:
     <figure>
     
       <img
-        src="pictures/fortified-oil.webp"
+        src="pictures/fortified-soybean-oil.png"
         alt="..."
         style="width:348px; height:217px;"
         class="center"
@@ -129,7 +129,7 @@ hide:
     <figure>
     
       <img
-        src="pictures/fortified-oil.webp"
+        src="pictures/bouillon-cubes-fortified.jpeg"
         alt="..."
         style="width:500px; height:286px;"
         class="center"
