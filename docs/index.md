@@ -168,26 +168,26 @@ hide:
 
 ## Project Goal
 
-To develop and use a tool to more efficiently plan and manage national and sub-national micronutrient intervention programs. 
+To develop and use a suite of tools that allows decision-makers to design and manage more cost-effective national and sub-national micronutrient intervention programs. 
 
 ## Context
 
-Micronutrient deficiencies are major contributors to morbidity and mortality among children and women globally. Major intervention strategies for addressing micronutrient deficiencies include: 1) micronutrient supplementation; 2) large- scale food fortification; 3) social and behavior change communications to promote dietary changes and/or breastfeeding; and 4) agricultural interventions, including agro- and biofortification, to increase the supplies of foods rich in micronutrients such as vitamin A, zinc, and iron.
+Micronutrient deficiencies are major contributors to morbidity and mortality among children and women globally. Major intervention strategies for addressing micronutrient deficiencies include: 1) micronutrient supplementation; 2) large- scale food and condiment fortification; 3) social and behavior change communications to promote dietary changes and/or breastfeeding; and 4) agricultural interventions, including agro- and biofortification, to increase the supplies of foods rich in micronutrients such as vitamin A, zinc, and iron.
 
-However, little guidance is available on how to select the most appropriate intervention strategy, or mix of strategies, to reach the greatest number of individuals at risk of deficiency and at lowest cost in a given context. Likewise, information is lacking on how best to plan and manage sub-national strategies to help meet the micronutrient needs of women and children to the extent possible when program funds, time, or trained personnel are limited.
+However, little guidance is available on how to select the most appropriate intervention strategy, or mix of strategies, to reach the greatest number of individuals at risk of deficiency and at lowest cost in given contexts. Likewise, information is lacking on how best to plan and manage sub-national strategies to help meet the micronutrient needs of women and children to the extent possible when program funds, time, or trained personnel are limited.
 
-## Objectives
+## MINIMOD Project Objectives
 
-- Use nationally representative dietary intake and biomarker data to identify the spatial distributions of selected micronutrient deficiencies within the population and the sub-groups at greatest risk
-- Develop a model to predict the effects of alternative micronutrient intervention programs, and combinations of them, on adequacy of dietary intake of key micronutrients (the “nutrition benefits model”)
-- Develop a model to predict the costs of alternative micronutrient intervention programs, and combinations of them, over a 10-year planning time horizon (the “cost model”)
-- Develop an economic optimization model that can identify the most cost-effective strategies for addressing micronutrient deficiencies, subject to funding and other constraints, over a 10-year planning time horizon
-- Use the economic optimization model to identify national and sub-national policy strategies for transitioning from current micronutrient intervention programs to more cost-effective sets of programs
-- Use these data and tools, and the results of model simulations, to inform policy discussions around micronutrient deficiencies  
+- Use nationally representative dietary intake and biomarker data (where available) to identify the spatial patterns of inadequate intake or deficiencies of selected micronutrients within the population, or sub-groups at greatest risk, especially young children or women of reproductive age.
+- Develop models to predict the effects of alternative micronutrient intervention programs, and combinations of them, on adequacy of dietary intake of key micronutrients (the “nutrition benefits models”).
+- Develop a model to predict the costs of alternative micronutrient intervention programs, and combinations of them, over a 10-year planning time horizon (the “cost models”).
+- Develop an economic optimization model that can identify the most cost-effective strategies (which may include more than one intervention program) for addressing inadequate micronutrient intake, subject to funding and other constraints, over a 10-year planning time horizon.
+- Use the economic optimization model to identify national and sub-national policy strategies for transitioning from current micronutrient intervention programs to more cost-effective sets of programs.
+- Use these data and tools, and the results of model simulations, to inform policy discussions around micronutrient deficiencies.
 
 ## Focus Micronutrients to Date
 
-Vitamin A, Vitamin B12, Folate, Iron, Zinc, and Iodine
+Vitamin A, Vitamin B12, Folate, Iron, Zinc, Calcium and Iodine
 
 ## Target Beneficiary Groups
 
@@ -195,22 +195,24 @@ Children aged 6-59 months; women of reproductive age 
 
 ## Measures of Program Impacts
 
-Reach, coverage, effective coverage, supplemental intake, lives saved and anemia cases avoided (in collaboration with the LiST model), excessive intake
+Reach, coverage, effective coverage, supplemental intake, minimum additional intake, fuctional outcomes such as lives saved and anemia cases avoided (in collaboration with the LiST model), intakes above established micronutrient-specific upper limits (UL).
 
 ## Expected Outcomes
 
-Evidence-based suggestions for more effective and cost-effective national and sub-national micronutrient intervention programs over the 10-year planning time horizons
+Impacts on nutritional and fuctional outcomes of alternative intervention programs; costs of alternative intervention programs; linking nutritional and functional outcomes with intervention program costs to generate estimates of cost-effectiveness; rankings of micronutrient intervention programs based on impacts and on cost-effectiveness; evidence-based suggestions regarding effective and cost-effective national and sub-national micronutrient intervention programs over 10-year planning time horizons; cadres of in-country collaborators trained in the use of MINIMOD tools and in the distillation and delivery of policy messages from model results.
 
 ## Country Projects
 
-Cameroon and Ethiopia
+Burkina Faso, Cameroon, Ethiopia, Nigeria, Senegal
 
-## Tools Under Development
+## Suites of Tools Under Development
 
-Full MINIMOD tool making use of individual dietary intake and other primary data, and "simplified" MINIMOD tool making use of other available (secondary) data
+MINIMOD-Full tool making use of individual dietary intake and other primary data, and the MINIMOD-SD tool making use of available secondary data
+
+**For more information:** Contact Dr. Stephen A. Vosti [(vosti@primal.ucdavis.edu)](mailto:vosti@primal.ucdavis.edu) or Dr. Reina Engle-Stone [(renglestone@ucdavis.edu)](mailto:renglestone@ucdavis.edu), co-Pls of the MINIMOD project.
 
 ## Project Partners 
 
-Helen Keller International-Cameroon, Ethiopian Public Health Institute, and the Johns Hopkins University Bloomberg School of Public Health.
+Helen Keller International Country Offices in Burkina Faso, Cameroon, Nigeria, and Senegal; Ethiopian Public Health Institute, and the Johns Hopkins University Bloomberg School of Public Health.
 
-The MINIMOD Project is supported in part by a grant from the Bill & Melinda Gates Foundation to the University of California, Davis. Additional support has been provided by the Michael and Susan Dell Foundation, and Sight and Life. 
+The MINIMOD Project is supported in part by grants from the Bill & Melinda Gates Foundation to the University of California, Davis. Additional support has been provided by the Michael and Susan Dell Foundation, Sight and Life, the Nutrition Program of the New York Academy of Sciences, and by a gift from Mars Incorporated to UC Davis to support training and research in the economics of human nutrition.
