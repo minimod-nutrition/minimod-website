@@ -29,19 +29,19 @@ nav:
       - countries/senegal/background.md
   - MINIMOD Tools:
     - MINIMOD-Full Tool: 
-      - MINIMOD: tools/minimod.md
-      - Overview: tools/minimod/overview.md
-      - Cost Models: tools/minimod/cost_models.md
-      - Benefits Models: tools/minimod/benefits_models.md
-      - Linking Benefits and Costs: tools/minimod/linking_benefits.md
-      - Economic Optimization: tools/minimod/economic_optimization.md
+      - MINIMOD: minimod_tools/minimod.md
+      - Overview: minimod_tools/minimod/overview.md
+      - Cost Models: minimod_tools/minimod/cost_models.md
+      - Benefits Models: minimod_tools/minimod/benefits_models.md
+      - Linking Benefits and Costs: minimod_tools/minimod/linking_benefits.md
+      - Economic Optimization: minimod_tools/minimod/economic_optimization.md
     - MINIMOD-SD Tool: 
-      - MINIMOD-SD: tools/minimod_sd.md
-      - Overview: tools/minimod_sd/overview.md
-      - Cost Models: tools/minimod_sd/cost_models.md
-      - Benefits Models: tools/minimod_sd/benefits_models.md
-      - Linking Benefits and Costs: tools/minimod/linking_benefits.md
-      - Economic Optimization: tools/minimod_sd/economic_optimization.md
+      - MINIMOD-SD: minimod_tools/minimod_sd.md
+      - Overview: minimod_tools/minimod_sd/overview.md
+      - Cost Models: minimod_tools/minimod_sd/cost_models.md
+      - Benefits Models: minimod_tools/minimod_sd/benefits_models.md
+      - Linking Benefits and Costs: minimod_tools/minimod/linking_benefits.md
+      - Economic Optimization: minimod_tools/minimod_sd/economic_optimization.md
   - Publications: publications.md
   - Collaborations: collaborations.md
   - News: news.md
