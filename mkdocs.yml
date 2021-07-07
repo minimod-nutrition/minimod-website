@@ -3,7 +3,7 @@ site_name: "Micronutrient Intervention Modeling Project"
 nav:
   - Home: index.md
   - Overview:
-    - The Tool: overview/tool.md
+    - The Tools: overview/tool.md
     - Key Messages: overview/key_messages.md
     - overview/policy_issues.md
     - overview/outreach.md
