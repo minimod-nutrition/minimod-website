@@ -28,7 +28,11 @@ nav:
     - Malawi: 
       - countries/malawi/background.md
     - Nigeria: 
-      - countries/Nigeria/background.md
+      - Background and Policy Issues: countries/nigeria/background.md
+      - Micronutrient Intervention Programs: countries/nigeria/programs.md
+      - Tool Development: countries/nigeria/tool_development.md
+      - Policy Engagement: countries/nigeria/policy.md
+      - Collaborating Organizations: countries/nigeria/collaborations.md
     - Senegal: 
       - countries/senegal/background.md
   - MINIMOD Tools:
