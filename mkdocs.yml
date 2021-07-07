@@ -34,7 +34,11 @@ nav:
       - Policy Engagement: countries/nigeria/policy.md
       - Collaborating Organizations: countries/nigeria/collaborations.md
     - Senegal: 
-      - countries/senegal/background.md
+      - Background and Policy Issues: countries/senegal/background.md
+      - Micronutrient Intervention Programs: countries/senegal/programs.md
+      - Tool Development: countries/senegal/tool_development.md
+      - Policy Engagement: countries/senegal/policy.md
+      - Collaborating Organizations: countries/senegal/collaborations.md
   - MINIMOD Tools:
     - MINIMOD-Full Tool: 
       - MINIMOD: minimod_tools/minimod.md
