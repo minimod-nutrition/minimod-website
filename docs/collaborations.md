@@ -1,10 +1,20 @@
 ## Other Key Partners
 
-- [UNICEF Head Quarters](https://www.unicef.org/) (NYC) 
-- [Helen Keller International](http://www.hki.org/) (Headquarters {NYC} 
+- [UNICEF Head Quarters](https://www.unicef.org/) (NYC)
+    - [Burkina Faso](https://www.unicef.org/wca/topics/burkina-faso)
+    - [Cameroon](https://www.unicef.org/wca/topics/cameroon)
+    - [Ethiopia](https://www.unicef.org/ethiopia/)
+    - [Ghana](https://www.unicef.org/ghana/)
+    - [Haiti](https://www.unicef.org/haiti/)
+    - [Malawi](https://www.unicef.org/malawi/)
+    - [Nigeria](https://www.unicef.org/nigeria/)
+    - [Senegal](https://www.unicef.org/wca/topics/senegal) 
+- [Helen Keller International](http://www.hki.org/)
 - Regional Offices {East and West Africa} and the Technical Advisory Group for West Africa)
 - [The Global Alliance for Vitamin A](http://www.gava.org/) (GAVA)
 - [Nutrition International](https://www.nutritionintl.org/) (Canada)
 - [Global Alliance for Improve Nutrition](http://www.gainhealth.org/) (Switzerland)
-- [The Sackler Institute](https://www.nyas.org/programs/the-sackler-institute-for-nutrition-science/) (NY Academy of Sciences)
+- [Nutrition Program, NYAS](https://www.nyas.org/programs/nutrition-science-programs/) (NY Academy of Sciences)
+- [Nutrition Modeling Consortium (NYAS)](https://www.nyas.org/programs/nutrition-modeling-consortium/)
 - [The Scaling Up Nutrition Movement](http://scalingupnutrition.org/) (Switzerland and selected country offices). 
+- [Improved Nutrition, GAIN](https://www.gainhealth.org/homepage)
