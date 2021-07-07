@@ -10,7 +10,11 @@ nav:
   - Focus Countries:
     - World Map: countries/index.md
     - Burkina Faso: 
-      - countries/burkina_faso/background.md
+      - Background and Policy Issues: countries/burkina_faso/background.md
+      - Micronutrient Intervention Programs: countries/burkina_faso/programs.md
+      - Tool Development: countries/burkina_faso/tool_development.md
+      - Policy Engagement: countries/burkina_faso/policy.md
+      - Collaborating Organizations: countries/burkina_faso/collaborations.md
     - Cameroon:
       - Background and Policy Issues: countries/cameroon/background.md
       - Cameroon Micronutrient Intervention Programs: countries/cameroon/programs.md
