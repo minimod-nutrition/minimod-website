@@ -174,13 +174,13 @@ To develop and use a suite of tools that allows decision-makers to design and ma
 
 Micronutrient deficiencies are major contributors to morbidity and mortality among children and women globally. Major intervention strategies for addressing micronutrient deficiencies include: 1) micronutrient supplementation; 2) large- scale food and condiment fortification; 3) social and behavior change communications to promote dietary changes and/or breastfeeding; and 4) agricultural interventions, including agro- and biofortification, to increase the supplies of foods rich in micronutrients such as vitamin A, zinc, and iron.
 
-However, little guidance is available on how to select the most appropriate intervention strategy, or mix of strategies, to reach the greatest number of individuals at risk of deficiency and at lowest cost in given contexts. Likewise, information is lacking on how best to plan and manage sub-national strategies to help meet the micronutrient needs of women and children to the extent possible when program funds, time, or trained personnel are limited.
+However, little guidance is available to decisionmakers on how to select the most effective and cost-effective national intervention programs, or combinations of programs, to reach the greatest number of individuals at risk of deficiency or inadequate intake, and do so within the budget and human resource constraints that they face. Likewise, information is lacking on how best to plan and manage sub-national strategies to help meet the micronutrient needs of women and children to the extent possible when program funds, time, or trained personnel are limited.
 
 ## MINIMOD Project Objectives
 
 - Use nationally representative dietary intake and biomarker data (where available) to identify the spatial patterns of inadequate intake or deficiencies of selected micronutrients within the population, or sub-groups at greatest risk, especially young children or women of reproductive age.
-- Develop models to predict the effects of alternative micronutrient intervention programs, and combinations of them, on adequacy of dietary intake of key micronutrients (the “nutrition benefits models”).
-- Develop a model to predict the costs of alternative micronutrient intervention programs, and combinations of them, over a 10-year planning time horizon (the “cost models”).
+- Develop models to predict the effects of ongoing and alternative (hypothetical) micronutrient intervention programs, and combinations of them, on adequacy of dietary intake of key micronutrients, over a 10-year planning time horizon (the “nutrition benefits models”).
+- Develop a model to predict the costs of existing and alternative (hypothetical) micronutrient intervention programs, and combinations of them, over a 10-year planning time horizon (the “cost models”).
 - Develop an economic optimization model that can identify the most cost-effective strategies (which may include more than one intervention program) for addressing inadequate micronutrient intake, subject to funding and other constraints, over a 10-year planning time horizon.
 - Use the economic optimization model to identify national and sub-national policy strategies for transitioning from current micronutrient intervention programs to more cost-effective sets of programs.
 - Use these data and tools, and the results of model simulations, to inform policy discussions around micronutrient deficiencies.
@@ -213,6 +213,6 @@ MINIMOD-Full tool making use of individual dietary intake and other primary data
 
 ## Project Partners 
 
-Helen Keller International Country Offices in Burkina Faso, Cameroon, Nigeria, and Senegal; Ethiopian Public Health Institute, and the Johns Hopkins University Bloomberg School of Public Health.
+Helen Keller International Country Offices in Burkina Faso, Cameroon, Nigeria, and Senegal; Ethiopian Public Health Institute; and the Johns Hopkins University Bloomberg School of Public Health.
 
 The MINIMOD Project is supported in part by grants from the Bill & Melinda Gates Foundation to the University of California, Davis. Additional support has been provided by the Michael and Susan Dell Foundation, Sight and Life, the Nutrition Program of the New York Academy of Sciences, and by a gift from Mars Incorporated to UC Davis to support training and research in the economics of human nutrition.

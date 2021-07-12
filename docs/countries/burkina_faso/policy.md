@@ -1,0 +1,1 @@
+A MINIMOD-Burkina Faso in-country team has been established in order to: a) identify the nutrition policy landscape, b) identify the micronutrient policy issues being discussed, c) develop the MINIMOD-SD tool and its underlying data, and d) distill and deliver policy results that emerge from the tool to decisionmakers in timely and useful ways.
