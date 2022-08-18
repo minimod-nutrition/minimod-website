@@ -7,6 +7,14 @@ hide:
 
 ## MINIMOD Publications
 
+[Knight, Frances, M. W. Bourassa, E. Ferguson, H. Walls, S. dePee, S. Vosti, H. Martinez, C. Levin, M. Woldt, K. Sethurman, G. Bergeron. 2022. Nutrition modeling tools: a qualitative study of influence on policy decision making and determining factors.  Ann. N. Y. Acad. Sci., 1513 (2022) 170-191](https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.14778)
+
+[Adams, Katherine P., S. A. Vosti, M. NN Mbuya, V. M. Friesen, and R. Engle-Stone. 2022. Update on Analytical Methods and Research Gaps in the Use of Household Consumption and Expenditure Survey Data to Inform the Design of Food-Fortification Programs.” In press. Advances in Nutrition. https://doi.org/10.1093/advances/nmac021](https://doi.org/10.1093/advances/nmac021)
+
+[Adams, Katherine P., H. Luo, S. A. Vosti, J. Kagin, I. Ngnie-Teta, A. Ndjebayi, J. Guintang Assiene, and R. Engle-Stone.  2021. Comparing estimated cost-effectiveness of micronutrient intervention programs using primary and secondary data: evidence from Cameroon. Ann. N.Y. Acad. Sci. ISSN 0077-8923; http://dx.doi.org/10.1111/nyas.14726](http://dx.doi.org/10.1111/nyas.14726)
+
+[Noshirvan, A., Brenda, W., Luo, H.; Justin, K., Vosti, S., Ndjebayi, A., Guintang Assiene, J., Teta, I., Nankap, M. and Engle-Stone, R.  2021.  Predicted Effects and Cost-Effectiveness of Wheat Flour Fortification for Reducing Micronutrient Deficiencies, Maternal Anemia, and Neural Tube Defects in Yaoundé and Douala, Cameroon. Food and Nutrition Bulletin. https://doi.org/10.1177/03795721211020716](https://doi.org/10.1177/03795721211020716)
+
 [Luo, H., Dodd, K. W., Arnold, C. D., Engle-Stone, R. "Introduction to the SIMPLE Macro, a Tool to Increase the Accessibility of 24-Hour Dietary Recall Analysis and Modeling." The Journal of Nutrition 2021, 151 (5), 1329–1340. https://doi.org/10.1093/jn/nxaa440.](https://academic.oup.com/jn/article/151/5/1329/6165023)
 
 [French, C. D., Arsenault, J. E., Arnold, C. D., Haile, D., Luo, H., Dodd, K. W.; Vosti, S. A., Slupsky, C. M., Engle-Stone, R., The Variance Components of Nutrient Intakes Data Working Group; Engle-Stone, R., French, C. D., Arsenault, J. E., Arnold, C. D., Haile, D., Wiesmann, D., Martin-Prevel, Y., Brouwer, I. D., Daniels, M. C., Nyström, C. D., Löf, M., Ndjebayi, A., Palacios, C., Prapkree, L., Palmer, A., Caswell, B. L., Hn Brown, K., Lietz, G., Haskell, M., Miller, J. "Within-Person Variation in Nutrient Intakes across Populations and Settings: Implications for the Use of External Estimates in Modeling Usual Nutrient Intake Distributions." Advances in Nutrition 2021, 12 (2), 429–451. doi.org/10.1093/advances/nmaa114.](https://academic.oup.com/advances/article/12/2/429/5924502)
