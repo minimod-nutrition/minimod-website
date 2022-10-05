@@ -20,12 +20,10 @@ hide:
     <li data-mdb-target="#carouselBasicExample" data-mdb-slide-to="5"></li>
     <li data-mdb-target="#carouselBasicExample" data-mdb-slide-to="6"></li>
     <li data-mdb-target="#carouselBasicExample" data-mdb-slide-to="7"></li>
-
-
   </ol>
 
   <!-- Inner -->
-  <div class="carousel-inner">
+  <div class="carousel-inner container">
     <!-- Single item -->
     <div class="carousel-item active">
     <figure>
@@ -33,7 +31,7 @@ hide:
       <img
         src="pictures/slider_hki_vitamin-a-supplementation-kenya.jpg__280x330_q85_crop_subsampling-2_upscale.jpg"
         alt="..."
-        style="width:280px; height:330px;"
+        style="width:340px; height:400px;"
         class="center"
       />
       </a>
@@ -47,7 +45,7 @@ hide:
       <img
         src="pictures/fortified_flour.jpg__280x330_q85_crop_subsampling-2_upscale.jpg"
         alt="..."
-        style="width:280px; height:330px;"
+        style="width:340px; height:400px;"
         class="center"
       />
       </a>
@@ -75,7 +73,7 @@ hide:
       <img
         src="pictures/fortified_maize_option_2.jpeg"
         alt="..."
-        style="width:363px; height:500px;"
+        style="width:290px; height:400px;"
         class="center"
       />
       </a>
@@ -103,7 +101,7 @@ hide:
       <img
         src="pictures/iron_fortified_beans.jpeg"
         alt="..."
-        style="width:600px; height:450px;"
+        style="width:533px; height:400px;"
         class="center"
       />
       </a>
@@ -117,7 +115,7 @@ hide:
       <img
         src="pictures/fortified-soybean-oil.png"
         alt="..."
-        style="width:348px; height:217px;"
+        style="width:641px; height:400px;"
         class="center"
       />
       </a>
@@ -131,7 +129,7 @@ hide:
       <img
         src="pictures/bouillon-cubes-fortified.jpeg"
         alt="..."
-        style="width:500px; height:286px;"
+        style="width:700px; height:400px;"
         class="center"
       />
       </a>

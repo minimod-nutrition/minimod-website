@@ -72,6 +72,7 @@ theme:
   name: material
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.instant
   custom_dir: overrides
 
@@ -79,11 +80,12 @@ extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.1.0/mdb.min.js
 
 extra_css:
-  - stylesheets/extra.css
   - stylesheets/colors.css
   - stylesheets/admon.css
-  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css
+  - stylesheets/extra.css
   - https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.1.0/mdb.min.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css
+  - stylesheets/carousel.css
 
 copyright: Copyright &copy The Regents of the University of California, Davis campus. All rights reserved.
 
