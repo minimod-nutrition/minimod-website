@@ -57,6 +57,8 @@ hide:
 
 [Vosti, S.A., Kagin, J., Engle-Stone, R., and K.H. Brown. "An Economic Optimization Model for Improving the Efficiency of Vitamin A Interventions: An Application to Young Children in Cameroon." Food and Nutrition Bulletin, 36(supplement 3), 2015.](https://journals.sagepub.com/doi/pdf/10.1177/0379572115595889)
 
+[Haile, D.; Brown, K.H.; McDonald, C.M.; Luo, H.; Jarvis, M.; Teta, I.; Ndjebayi, A.; Martial, G.A.J.; Vosti, S.A.; Engle-Stone, R. 2022.  Applying Zinc Nutrient Reference Values as Proposed by Different Authorities Results in Large Differences in the Estimated Prevalence of Inadequate Zinc Intake by Young Children and Women and in Cameroon. Nutrients 2022, 14(4), 883; https://doi.org/10.3390/nu14040883.] (https://doi.org/10.3390/nu14040883) 
+
 ## Related Publications
 
 [Ouédraogo C. T., S. A. Vosti, K. R. Wessells, C.D. Arnold, M. T. Faye, and S. Y. Hess.  2021 Out-of-Pocket Costs and Time Spent Attending Antenatal Care Services: A Case Study of Pregnant Women in Selected Rural Communities in Zinder, Niger. BMC Health Services Research (forthcoming)](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-020-06027-2)
