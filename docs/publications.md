@@ -57,7 +57,9 @@ hide:
 
 [Vosti, S.A., Kagin, J., Engle-Stone, R., and K.H. Brown. "An Economic Optimization Model for Improving the Efficiency of Vitamin A Interventions: An Application to Young Children in Cameroon." Food and Nutrition Bulletin, 36(supplement 3), 2015.](https://journals.sagepub.com/doi/pdf/10.1177/0379572115595889)
 
-[Haile, D.; Brown, K.H.; McDonald, C.M.; Luo, H.; Jarvis, M.; Teta, I.; Ndjebayi, A.; Martial, G.A.J.; Vosti, S.A.; Engle-Stone, R. 2022.  Applying Zinc Nutrient Reference Values as Proposed by Different Authorities Results in Large Differences in the Estimated Prevalence of Inadequate Zinc Intake by Young Children and Women and in Cameroon. Nutrients 2022, 14(4), 883; https://doi.org/10.3390/nu14040883.] (https://doi.org/10.3390/nu14040883) 
+[Haile, D.; Brown, K.H.; McDonald, C.M.; Luo, H.; Jarvis, M.; Teta, I.; Ndjebayi, A.; Martial, G.A.J.; Vosti, S.A.; Engle-Stone, R. 2022.  Applying Zinc Nutrient Reference Values as Proposed by Different Authorities Results in Large Differences in the Estimated Prevalence of Inadequate Zinc Intake by Young Children and Women and in Cameroon. Nutrients 2022, 14(4), 883; https://doi.org/10.3390/nu14040883.] (https://doi.org/10.3390/nu14040883)
+
+[Vosti, S. A., Adams, K. P., Michuda, A., Ortiz-Becerra, K., Luo, H., Haile, D., Chou, V. B., Clermont, A., Teta, I., Ndjebayi, A., Kagin, J., Guintang, J., & Engle-Stone, R. (2022). Impacts of micronutrient intervention programs on effective coverage and lives saved: Modeled evidence from Cameroon. Ann NY Acad Sci., 1–12. https://doi.org/10.1111/nyas.14937] (https://doi.org/10.1111/nyas.14937)
 
 ## Related Publications
 
