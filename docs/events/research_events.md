@@ -1,4 +1,0 @@
-- African Nutritional Epidemiology Conference 2018 (ANEC)
-      - Demewoz Haile Woldegebreal, a PhD student in the Program in International and Community Nutrition at UC Davis, received the Carpenter Travel Award from the UC Davis Department of Nutrition to attend ANEC.
-- Nutrition 2018 (ASN)
-      - Hanqi Luo, a Postdoctoral Scholar in the Department of Nutrition at UC Davis, won first place in the Emerging Leaders Competition for the Nutrition Epidemiology Research Interest Group, postdoc group.
