@@ -40,15 +40,17 @@ nav:
       - Policy Engagement: countries/senegal/policy.md
       - Collaborating Organizations: countries/senegal/collaborations.md
   - MINIMOD Models:
-    - MINIMOD-Full Tool: 
+    - MINIMOD Models - An Overview:
+    - MINIMOD Nutritional Needs and Intervention Program Benefits:
+      - MINIMOD-Full Tool: minimod_nutritional/minimod_full_text.md
       - MINIMOD: minimod_tools/minimod.md
       - Overview: minimod_tools/minimod/overview.md
       - Cost Models: minimod_tools/minimod/cost_models.md
       - Benefits Models: minimod_tools/minimod/benefits_models.md
       - Linking Benefits and Costs: minimod_tools/minimod/linking_benefits.md
       - Economic Optimization: minimod_tools/minimod/economic_optimization.md
-    - MINIMOD-SD Tool: 
-      - MINIMOD-SD: minimod_tools/minimod_sd.md
+    - MINIMOD-SD (Secondary Data) Tool: 
+      - MINIMOD-SD (Secondary Data): minimod_tools/minimod_sd_text.md
       - Overview: minimod_tools/minimod_sd/overview.md
       - Cost Models: minimod_tools/minimod_sd/cost_models.md
       - Benefits Models: minimod_tools/minimod_sd/benefits_models.md
