@@ -1,1 +1,1 @@
-MINIMOD-SD tools are being developed for Nigeria.
+MINIMOD-SD (secondary data) models have been developed to estimate apparent micronutrient intake and the % of population subgroups that have inadequate micronutrient intake, and to assess the contributions (individually and in combinations) of existing and alternative hypothetical large-scale food fortification program (LSFF) to reducing inadequate apparent intake.  MINIMOD cost models have been developed for all of the existing and hypothetical LSFF programs.
