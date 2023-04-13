@@ -1,21 +1,9 @@
-What follows is an example of the data and methods used in the MINIMOD-SD model in the context of
-Burkina Faso and taken from Adams et al. forthcoming.
+What follows is an example of the data and methods used in the MINIMOD-SD model in the context of Burkina Faso and taken from Adams et al. forthcoming.
 Our metric of effectiveness was effective coverage, defined as the number or percent of a target
-population with inadequate micronutrient intake who achieve adequate intake after the introduction of
-a micronutrient intervention program. While children under 5 years of age are commonly the target
-population for zinc interventions, LSFF alone is unlikely to meet the zinc requirements of young children
-because of the relatively small quantities of staple foods consumed, and fortification levels designed not
-to exceed the tolerable upper intake level in any population group. Thus, young children in countries
-with a high prevalence of zinc deficiency are likely to require additional interventions. Given this, we
-selected pregnant and non-pregnant women age 15-49 years (hereafter women of reproductive age,
-WRA) as our target population. We modeled the potential effectiveness of adding zinc to Burkina Faso’s
-wheat flour fortification standard using household consumption and expenditure survey data collected
-in 2018/2019 via the Enquête Harmonisée sur les Conditions de Vie des Ménages (EHCVM) survey. To
-capture seasonality in consumption, the EHCVM survey data were collected in two waves (with different
-households surveyed in each wave), from October and December of 2018 and from April and July of
-2019. In the food consumption and expenditures section of the survey, a household respondent was
-asked to recall the quantity of each of 138 food items consumed by household members during the
-seven days preceding the survey.
+population with inadequate micronutrient intake who achieve adequate intake after the introduction of a micronutrient intervention program. While children under 5 years of age are commonly the target population for zinc interventions, LSFF alone is unlikely to meet the zinc requirements of young children because of the relatively small quantities of staple foods consumed, and fortification levels designed not
+to exceed the tolerable upper intake level in any population group. Thus, young children in countries with a high prevalence of zinc deficiency are likely to require additional interventions. Given this, we selected pregnant and non-pregnant women age 15-49 years (hereafter women of reproductive age, WRA) as our target population. We modeled the potential effectiveness of adding zinc to Burkina Faso’s
+wheat flour fortification standard using household consumption and expenditure survey data collected in 2018/2019 via the Enquête Harmonisée sur les Conditions de Vie des Ménages (EHCVM) survey. To capture seasonality in consumption, the EHCVM survey data were collected in two waves (with different
+households surveyed in each wave), from October and December of 2018 and from April and July of 2019. In the food consumption and expenditures section of the survey, a household respondent was asked to recall the quantity of each of 138 food items consumed by household members during the seven days preceding the survey.
 We used these food consumption data to estimate household daily apparent consumption of each food
 item, where apparent emphasizes assumptions inherent in using household-level data, including that all
 food was consumed by the household without food waste or loss and was distributed within the

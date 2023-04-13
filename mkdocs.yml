@@ -56,6 +56,7 @@ nav:
       - Benefits Models: minimod_tools/minimod_sd/benefits_models.md
       - Linking Benefits and Costs: minimod_tools/minimod/linking_benefits.md
       - Economic Optimization: minimod_tools/minimod_sd/economic_optimization.md
+    - MINIMOD - Lives Saved Tool (LiST) Model: 
   - Publications: publications.md
   - Collaborations: collaborations.md
   - Related Resources: related_resources.md 
