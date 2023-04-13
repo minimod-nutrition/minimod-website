@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Micronutrient Policy Issues
+# Micronutrient Policy Issues - An Example from Cameroon
 
 ## Micronutrient Deficiencies in Developing Countries
 
