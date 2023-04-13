@@ -39,7 +39,7 @@ nav:
       - Tool Development: countries/senegal/tool_development.md
       - Policy Engagement: countries/senegal/policy.md
       - Collaborating Organizations: countries/senegal/collaborations.md
-  - MINIMOD Tools:
+  - MINIMOD Models:
     - MINIMOD-Full Tool: 
       - MINIMOD: minimod_tools/minimod.md
       - Overview: minimod_tools/minimod/overview.md
