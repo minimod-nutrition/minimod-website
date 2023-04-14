@@ -61,4 +61,4 @@ That said, it is not always the case that cost-effective nutrition policy change
 
 
 
-\bibliography
+Citation: Vosti, S. A., Kagin, J., Engle‐Stone, R., Luo, H., Tarini, A., Clermont, A., Assiene, J. G., Nankap, M., and Brown, K. H. (2020). Strategies to achieve adequate vitamin A intake for young children: Options for Cameroon. Annals of the New York Academy of Sciences, 1465(1), 161–180. https://doi.org/10.1111/nyas.14275 

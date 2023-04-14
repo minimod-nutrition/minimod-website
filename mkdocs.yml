@@ -42,21 +42,12 @@ nav:
   - MINIMOD Models:
     - MINIMOD Models - An Overview: minimod_models/minimod_models_overview/models_overview_text.md
     - MINIMOD Nutritional Needs and Intervention Program Benefits:
-      - MINIMOD-Full Tool: minimod_nutritional/minimod_full_text.md
-      - MINIMOD: minimod_tools/minimod.md
-      - Overview: minimod_tools/minimod/overview.md
-      - Cost Models: minimod_tools/minimod/cost_models.md
-      - Benefits Models: minimod_tools/minimod/benefits_models.md
-      - Linking Benefits and Costs: minimod_tools/minimod/linking_benefits.md
-      - Economic Optimization: minimod_tools/minimod/economic_optimization.md
-    - MINIMOD-SD (Secondary Data) Tool: 
-      - MINIMOD-SD (Secondary Data): minimod_tools/minimod_sd_text.md
-      - Overview: minimod_tools/minimod_sd/overview.md
-      - Cost Models: minimod_tools/minimod_sd/cost_models.md
-      - Benefits Models: minimod_tools/minimod_sd/benefits_models.md
-      - Linking Benefits and Costs: minimod_tools/minimod/linking_benefits.md
-      - Economic Optimization: minimod_tools/minimod_sd/economic_optimization.md
+      - MINIMOD-Full: minimod_models/minimod_nutritional/minimod_full_text.md
+      - MINIMOD-SD (Secondary Data): minimod_models/minimod_sd/minimod_sd_text.md
     - MINIMOD - Lives Saved Tool (LiST) Model: minimod_models/minimod_list/minimod_list.md
+    - MINIMOD Intervention Program Cost Models: minimod_models/minimod_intervention/minimod_intervention_text.md
+    - Linking MINIMOD Intervention Program Benefits and Costs: minimod_models/minimod_linking/minimod_linking_text.md
+    - MINIMOD Economic Optimization Model: minimod_models/minimod_optimization/minimod_optimization_text.md
   - Publications: publications.md
   - Collaborations: collaborations.md
   - Related Resources: related_resources.md 
