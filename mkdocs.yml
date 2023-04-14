@@ -42,7 +42,7 @@ nav:
   - MINIMOD Models:
     - MINIMOD Models - An Overview: minimod_models/minimod_models_overview/models_overview_text.md
     - MINIMOD Nutritional Needs and Intervention Program Benefits:
-      - MINIMOD-Full: minimod_models/minimod_nutritional\minimod_full_tool/minimod_full_text.md
+      - MINIMOD-Full: minimod_models/mminimod_models_overview/minimod_full_text.md
       - MINIMOD-SD (Secondary Data): minimod_models/minimod_sd/minimod_sd_text.md
     - MINIMOD - Lives Saved Tool (LiST) Model: minimod_models/minimod_list/minimod_list.md
     - MINIMOD Intervention Program Cost Models: minimod_models/minimod_intervention/minimod_intervention_text.md
