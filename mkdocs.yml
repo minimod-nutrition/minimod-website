@@ -17,16 +17,21 @@ nav:
       - Collaborating Organizations: countries/burkina_faso/collaborations.md
     - Cameroon:
       - Background and Policy Issues: countries/cameroon/background.md
-      - Cameroon Micronutrient Intervention Programs: countries/cameroon/programs.md
-      - countries/cameroon/policy_engagement.md
+      - Micronutrient Intervention Programs: countries/cameroon/programs.md
+      - Tool Development: countries/cameroon/tool_development.md
+      - Policy Engagement: countries/cameroon/policy_engagement.md
     - Ethiopia: 
-      - countries/ethiopia/background.md
+      - Background: countries/ethiopia/background.md
+      - Micronutrient Intervention Programs: countries/ethiopia/programs.md
     - Ghana: 
-      - countries/ghana/background.md
+      - Background: countries/ghana/background.md
+      - Micronutrient Intervention Programs: countries/ghana/programs.md
     - Haiti: 
-      - countries/haiti/background.md
+      - Background: countries/haiti/background.md
+      - Micronutrient Intervention Programs: countries/haiti/programs.md
     - Malawi: 
-      - countries/malawi/background.md
+      - Background: countries/malawi/background.md
+      - Micronutrient Intervention Programs: countries/malawi/programs.md
     - Nigeria: 
       - Background and Policy Issues: countries/nigeria/background.md
       - Micronutrient Intervention Programs: countries/nigeria/programs.md
