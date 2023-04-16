@@ -14,3 +14,5 @@
 		"liveServer.settings.multiRootWorkspaceName": "minimod.ucdavis.edu-archive"
 	}
 }
+
+pip install mkdocs-table-reader-plugin
