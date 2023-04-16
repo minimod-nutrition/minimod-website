@@ -11,12 +11,12 @@ The information given below was taken from the [Global Fortification Data Exchan
 - Wheat Flour
     - A mandatory fortification has been placed since 2010. Domesticated and imported wheat flour are fortified and used in households as well as processed foods.
     - The wheat flour is enriched with vitamin B6, vitamin B12, folate (B9), iron, niacin (B3), riboflavin (B2), thiamin (B12), vitamin A, and zinc. The nutrient levels used are added based on WHO recommended levels.
-    - 100% of wheat flour in Nigeria is fortified.
+    - 74% of wheat flour in Nigeria is fortified.
     - External and internal monitoring is present for domestic production and imported foods respectively.
 
 - Oil
     - A mandatory fortification has been placed since 2000. Domesticated and imported oil are fortified and used in households and processed foods.
-    - Cottonseed oil is enriched with vitamin A.
+    - Oil is enriched with vitamin A.
     - 65.5% of oil in Nigeria is fortified.
     - External and internal monitoring is present for domestic production and imported foods respectively.
 

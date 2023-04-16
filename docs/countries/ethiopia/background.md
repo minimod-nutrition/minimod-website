@@ -1,6 +1,6 @@
 # Background and Policy Issues
 
-## Background
+## Background 
 
 Largely driven by agroecological differences and cultural practices, Ethiopia is characterized by region-specific dietary composition and diversity. As a result, there is substantial variability in micronutrient deficiencies among target beneficiary groups across Ethiopia’s 11 administrative units (9 regions and 2 major metropolitan areas, Addis Ababa and Dire Dawa). Regional differences in infrastructure, human capital, etc., also lead to variability in micronutrient delivery program costs.
 

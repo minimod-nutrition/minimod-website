@@ -24,6 +24,27 @@ The MINIMOD team has modeled the following existing and experimental micronutrie
     - [pregnant women](http://www.who.int/elena/titles/micronutrientpowder_pregnancy/en/)
 - Social and behavior change communication for promotion of increased production and/or consumption of nutrient-rich foods and encouragement of breast-feeding practices that are consistent with [World Health Organization guidelines](http://www.who.int/topics/breastfeeding/en/)
 
+The information given below was taken from the [Global Fortification Data Exchange Website](https://fortificationdata.org/). 
+
+- Oil
+    - There have been mandatory fortification programs in place since 2011. Fortification is required for all types of oil.
+    - The oil is fortified with Vitamin A.
+    - There is imported food monitoring and external monitoring of domestic production.
+
+- Wheat Flour
+    - There have been mandatory fortification programs in place since 2011. 
+    - Domestic and imported wheat flour is fortified and used in households and in processed food.
+    - Wheat flour is fortified with Vitamin B12, Folate, Iron, and Zinc.
+    - There is external monitoring of domestic production.
+    - There is 100% compliance with the fortificaiton program and there is 92% population coverage.
+
+- Salt
+    - There have been mandatory fortification programs in place in 1991. 
+    - Domestically produced and imported salt is fortified and used in households and processed food.
+    - Salt is fortified with Iodine.
+    - There is 86% population covereage.
+
+
 ## Micronutrient Delivery Platforms
 
 The MINIMOD team has modeled the distribution of selected micronutrient intervention programs via the following delivery platforms:
