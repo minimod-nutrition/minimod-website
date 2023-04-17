@@ -10,3 +10,5 @@ intake patterns across macro-regions) and costs. Once again, MIPs are clustered 
 reader will note that zinc-fortified bouillon cubes, at the hypothetical fortification levels, convey very
 little zinc to young children and therefore the effective coverage or proportion who meet the threshold
 defined for the MAI (3 mg/d) remains low, and consequently no deaths are averted by this MIP.
+
+{{ read_excel('Webpage Updates Table 2', engine='openpyxl') }}
