@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with: 
+        with:
           fetch-depth: 0
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: pip install wheel mkdocs-material mkdocs mkdocs-git-revision-date-localized-plugin mkdocs-bibtex mkdocs-macros-plugin mkdocs-table-reader-plugin
+      - run: pip install wheel mkdocs mkdocs-bibtex mkdocs-git-revision-date-localized-plugin mkdocs-macros-plugin mkdocs-material mkdocs-table-reader-plugin openpyxl
       - run: mkdocs gh-deploy --force
