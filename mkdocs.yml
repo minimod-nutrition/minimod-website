@@ -86,11 +86,11 @@ copyright: Copyright &copy The Regents of the University of California, Davis ca
 plugins:
   - git-revision-date-localized
   - search
+  - table-reader
   - macros
   - bibtex:
       bib_file: "refs.bib"
       cite_style: "pandoc"
-  - table-reader
 
 extra:
   url_prefix: !!python/object/apply:os.getenv ["MM_DOCS_URL_PREFIX"]
