@@ -13,9 +13,9 @@ defined for the MAI (3 mg/d) remains low, and consequently no deaths are averted
 
 
 
-| Micronutrient Intervention Programs and Target Beneficiary Group | Nutritional Outcomes | Total Program Costs            | Program Cost-Effectiveness<sup>d</sup> |
+| Micronutrient Intervention Programs and Target Beneficiary Group | Nutritional Outcomes | Total Program Costs (‘000s of 2019 USD)  | Program Cost-Effectiveness<sup>d</sup> |
 | ---------------------------------------------------------------- | -------------------- | ------------------------------ | -------------------------------------- |
-| (‘000s of 2019 USD)                                              | (2019 USD)           |
+|                                                                  | (2019 USD)           |
 |                                                                  | Reach<sup>a</sup>    | Effective Coverage<sup>b</sup> | Lives Saved<sup>c</sup>                |  | Cost per Individual Effectively Covered | Cost per Child Life Saved |
 | (%)                                                              | (%)                  |
 | Zinc: Children                                                   |                      |                                |                                        |  |  |  |
