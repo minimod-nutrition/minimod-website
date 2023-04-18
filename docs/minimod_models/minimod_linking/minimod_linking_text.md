@@ -11,6 +11,8 @@ reader will note that zinc-fortified bouillon cubes, at the hypothetical fortifi
 little zinc to young children and therefore the effective coverage or proportion who meet the threshold
 defined for the MAI (3 mg/d) remains low, and consequently no deaths are averted by this MIP.
 
+
+
 | Micronutrient Intervention Programs and Target Beneficiary Group | Nutritional Outcomes | Total Program Costs            | Program Cost-Effectiveness<sup>d</sup> |
 | ---------------------------------------------------------------- | -------------------- | ------------------------------ | -------------------------------------- |
 | (‘000s of 2019 USD)                                              | (2019 USD)           |
