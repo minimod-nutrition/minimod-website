@@ -12,17 +12,13 @@ little zinc to young children and therefore the effective coverage or proportion
 defined for the MAI (3 mg/d) remains low, and consequently no deaths are averted by this MIP.
 
 
-
-| Micronutrient Intervention Programs and Target Beneficiary Group | Nutritional Outcomes | Total Program Costs 
-(‘000s of 2019 USD)  | Program Cost-Effectiveness<sup>d</sup> 
-(2019 USD)|
+| Micronutrient Intervention Programs and Target Beneficiary Group | Nutritional Outcomes | Total Program Costs (‘000s of 2019 USD)   | Program Cost-Effectiveness<sup>d</sup> (2019 USD)|
 | ---------------------------------------------------------------- | -------------------- | ------------------------------ | -------------------------------------- |
 |                                                                  |                      |
-|                                                                  | Reach<sup>a</sup>    | Effective Coverage<sup>b</sup> | Lives Saved<sup>c</sup>                |  | Cost per Individual Effectively Covered | Cost per Child Life Saved |
-| (%)                                                              | (%)                  |
-| Zinc: Children                                                   |                      |                                |                                        |  |  |  |
+|                                                                  | Reach<sup>a</sup> (%)| Effective Coverage<sup>b</sup> (%) | Lives Saved<sup>c</sup>                |  | Cost per Individual Effectively Covered | Cost per Child Life Saved 
+|  Zinc: Children                                                  |                      |                                |                                        |  |  |  |
 | Zinc Flour (31.4 mg/kg)                                          |                      |                                |                                        |  |  |  |
-| Nationally                                                       | 47.7                 | 14.7                           | 903                                    | 2,003 | 0.44 | 2,218 |
+|     Nationally                                                       | 47.7                 | 14.7                           | 903                                    | 2,003 | 0.44 | 2,218 |
 | North                                                            | 36.8                 | 7.4                            | 198                                    | 473 | 0.42 | 2,389 |
 | South                                                            | 43.7                 | 11.9                           | 288                                    | 748 | 0.42 | 2,597 |
 | Cities                                                           | 82.6                 | 24.7                           | 418                                    | 782 | 0.47 | 1,871 |
