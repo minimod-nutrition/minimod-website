@@ -60,6 +60,16 @@ Populations
 |                                                                        | Programs not chosen                | n/a                           | Zinc Flour (95 mg/kg),  Zinc Cube (600 mg/kg)       
 |                                                                        | Effective coverage                 | 4,567,575                     | 4,567,575                     |
 |                                                                        | Cost per child effectively covered | $0.44                         | $0.44                         |
+| Children, Effective Coverage, VA                                       | Programs chosen                    | VA Oil (9 mg/kg) + VAS-CHD (national)           | VA Oil (9 mg/kg) + VAS-CHD (North) + VA Cube (80 mg/kg)                       |
+|                                                                        | Programs not chosen                | n/a                           | VAS-Routine  VAS-CHD (South)  VAS-CHD (Cities) VA Oil (12 mg/kg)    
+|                                                                        | Effective coverage                 | 14,233,468                    | 14,310,309                    |
+|                                                                        | Cost per child effectively covered | $2.40                         | $2.27                         |
+| WRA, Effective Coverage, Folic Acid                                    | Programs chosen                    | Folic Acid Flour (1.65 mg/kg) | Folic Acid Flour (1.65 mg/kg) |
+|                                                                        | Programs not chosen                | n/a                           | Folic Acid Cube (100 mg/kg), Folic Acid Flour (5 mg/kg)     
+|                                                                        | Effective coverage                 | 17,096,476                    | 17,096,476                    |
+|                                                                        | Cost per WRA effectively covered   | $0.09                         | $0.09                         |
+
+
 
 
 
