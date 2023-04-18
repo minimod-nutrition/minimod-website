@@ -11,11 +11,13 @@ reader will note that zinc-fortified bouillon cubes, at the hypothetical fortifi
 little zinc to young children and therefore the effective coverage or proportion who meet the threshold
 defined for the MAI (3 mg/d) remains low, and consequently no deaths are averted by this MIP.
 
+**Table 2: Nutritional Outcomes, Costs, and Cost-Effectiveness of Candidate Micronutrient Intervention
+Programs, Assessed Independently, over 10 Years
 
 | Micronutrient Intervention Programs and Target Beneficiary Group | Nutritional Outcomes | Total Program Costs (‘000s of 2019 USD)   | Program Cost-Effectiveness<sup>d</sup> (2019 USD)|
 | ---------------------------------------------------------------- | -------------------- | ------------------------------ | -------------------------------------- |
 |                                                                  |                      |
-|                                                                  | Reach<sup>a</sup> (%)| Effective Coverage<sup>b</sup> (%) | Lives Saved<sup>c</sup>                |  | Cost per Individual Effectively Covered | Cost per Child Life Saved 
+|                                                                  | Reach<sup>a</sup>           (%)| Effective Coverage<sup>b</sup> (%) | Lives Saved<sup>c</sup>                |  | Cost per Individual Effectively Covered | Cost per Child Life Saved 
 |  Zinc: Children                                                  |                      |                                |                                        |  |  |  |
 | Zinc Flour (31.4 mg/kg)                                          |                      |                                |                                        |  |  |  |
 |     Nationally                                                       | 47.7                 | 14.7                           | 903                                    | 2,003 | 0.44 | 2,218 |
@@ -74,3 +76,26 @@ defined for the MAI (3 mg/d) remains low, and consequently no deaths are averted
 | North                                                            | 93.5                 | 44.8                           | 3,188                                  | 1,211 | 0.22 | 380 |
 | South                                                            | 92.9                 | 65.3                           | 4,399                                  | 1,332 | 0.18 | 303 |
 | Cities                                                           | 92.7                 | 69.6                           | 2,018                                  | 771 | 0.18 | 382 |
+
+
+<sup>a</sup>  Reach is defined as the proportion of the target beneficiary population that consumed a given food vehicle over
+the past 24 hours. Reach for VAS is defined as the proportion of children (6-59 months) who received high-dose
+vitamin A supplements at least once in the past 6 months. VAS routine is the vitamin A supplementation program
+delivered through routine health services. Routine VAS coverage is estimated based on data provided from HKI and
+UNICEF. We took the routine VAS coverage from center and Littoral provinces to represent the urban macro region
+as suggested by local collaborators. The routine vitamin A supplementation coverage among children age 6-59
+months is a weighted average of routine VAS coverage among 6-11 months and 12-59 months age children.
+
+<sup>b</sup>  Effective coverage is defined as the proportion of the population that achieves adequate intake (intake above the
+estimated average requirement, EAR) due to a given MIP or combination thereof. Except folic acid, the effective
+coverage estimates are for children. The effective coverage estimates of folic acid was among women age 15-49
+years.
+
+<sup>c</sup> Lives saved were estimated using LiST and the micronutrient-specific pathways linking effective coverage and
+reductions in under-5 mortality, as described in the text. For zinc interventions, lives saved was estimated based
+on proportion of children who received at least 3mg/d of additional total zinc from one or more MIPs, regardless
+of background diets. ‘High’ effectiveness results are reported here and ‘low’ effectiveness results are reported in
+the Technical Appendix; the selection of ‘high’ or ‘low’ effectiveness results did not influence the paper’s key policy
+messages.
+
+<sup>d</sup>  Target beneficiary populations serve as the bases for denominators for cost-effectiveness measures.
