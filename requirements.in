@@ -3,4 +3,5 @@ mkdocs-bibtex
 mkdocs-git-revision-date-localized-plugin
 mkdocs-macros-plugin
 mkdocs-material
+mkdocs-table-reader-plugin
 openpyxl
