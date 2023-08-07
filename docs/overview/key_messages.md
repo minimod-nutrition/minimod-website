@@ -21,10 +21,12 @@ Based on the work of the MINIMOD team and collaborators to date, the following k
     - Address the costs of intervention programs from the outset
     - Include all relevant stakeholder groups in discussion of program costs
 
-??? minimod "Aim for efficient solutions"
+??? minimod "Aim for efficient and sustainable solutions"
     - Let cost-effectiveness be your guide in selecting combinations of intervention programs
+    - Do not overshoot the human or financial resources that are likely to be available to any key stakeholders, for any investments or activities
 
 ??? minimod "Adopt a multi-year, sub-national framework"
+    - Adopt a multi-year framework to allow upgraded existing and hypothetical programs to mature
     - Select cost-effective combinations of national and sub-national intervention programs, and practical multi-year pathways for implementing them
 
 ??? minimod "Monitor your programs"
@@ -32,5 +34,7 @@ Based on the work of the MINIMOD team and collaborators to date, the following k
     - Establish and fund formal multi-sectoral monitoring and coordination teams to ensure results
   
 ??? minimod "Keep an eye on the most vulnerable"
-    - The poor merit special attention and may warrant special nutrition intervention programs
+    - The poor, and especially the rural poor, merit  special attention and may warrant special nutrition intervention programs
+
+
     

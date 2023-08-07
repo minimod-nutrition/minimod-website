@@ -1,0 +1,1 @@
+The MININOD-SD tool has been developed and used, among other purposes, to guide the content of the multi-fortified bouillon cube that is currently being tested in the northern Ghana (https://nutrition.ucdavis.edu/news/west-african-cuisine-heart-new-fortification-clinical-trial-led-uc-davis).  The companion MINIMOD Cost model is under development. 
