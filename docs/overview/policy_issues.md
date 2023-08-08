@@ -53,11 +53,11 @@ The MINIMOD project solves this problem by developing an economic optimization m
 
 Transitioning from current micronutrient intervention programs to more efficient programs will never be quick or costless, but it still can be worthwhile.  The MINIMOD tool can help identify practical transition options for micronutrient intervention programs.8 (Cite the 2019 NYAS paper by Vosti et al., here) The figure below charts a path in the case of the Southern macro-region in Cameroon from a current set of programs (VAS via Child Health Days and a low-level VA-fortified edible oils program) to one that includes a VA-fortified bouillon cube (which takes several years to develop and promote) and an improved VA-fortified edible oils program (which takes two years to achieve).  Note that, in this macro-region, once these two programs are in place, inadequate intake of VA ceases to be a public health problem and the number of VA-preventable deaths shrinks to practically zero.  The programmatic savings (which can be repurposed to address other nutrition problems) can be substantial, and will depend on the number and timing of field-based confirmation exercises that are required. 
 
-![](../pictures/slide33.jpg)
+![](../pictures/slide33.png)
 
 That said, it is not always the case that cost-effective nutrition policy changes can bring about reductions in spending on current programs. The figure below depicts the same investment scenario noted above, but this time in the North macro-region of Cameroon, where inadequate intake of VA is much more prevalent and severe. In this setting, the two new programs do reduce the prevalence of inadequate VA intake among children, but not to a level that permits the elimination of VAS distribution via Child Health Days. 
 
-![](../pictures/slide34.jpg)
+![](../pictures/slide34.png)
 
 
 
