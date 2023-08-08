@@ -7,3 +7,4 @@ The MINIMOD team trains collaborators formally and informally in model developme
 ## Policy Engagement
 Policy engagement begins at the outset of every project, and culminates in the delivery of new evidence bases to policy-making bodies and key individuals within them.  A first step in policy engagement is the preparation of detailed nutrition policy landscapes, which facilitate the identification of policy-making bodies, or organizations that influence them, for targeted policy engagement activities. 
 
+![](../pictures/policyengagementmodel.jpg)
