@@ -1,0 +1,1 @@
+The MINIMOD-SD and MINIMOD Cost models have been developed and used in the context of USAID-sponsored collaborative research. 
