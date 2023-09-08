@@ -6,7 +6,7 @@
 #
 build==1.0.3
     # via pip-tools
-click==8.1.6
+click==8.1.7
     # via pip-tools
 importlib-metadata==6.8.0
     # via build
