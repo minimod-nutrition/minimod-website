@@ -10,6 +10,8 @@ associated with a pilot program in one region of Cameroon. The costs of adding a
 existing food fortification programs were based on the estimated costs of the specific fortificants or
 compounds included in the premix, plus the factory and public sectors costs associated with quality
 assurance and regulation.
+
+
 More specifically, the figure below provides an overview of the structure of the MINIMOD cost model in
 the context of large-scale food fortification programs. Dietary intake data provide estimates of the
 amounts of specific delivery vehicles (e.g., wheat flour) consumed. The Premix calculator allows users to
@@ -42,10 +44,11 @@ industry and government are included in detail in the cost model.
 The degree of compliance of fortification programs to published standards varies across programs, e.g.,
 in the specific case of Cameroon, the current wheat flour (zinc and folic acid) and edible oils (VA)
 programs perform at 33% and 75% of standards, respectively; these performance indicators were
-included to adjust the estimates of program costs and program impacts. To estimate the subnational costs of national 
-fortification programs, start-up costs were allocated equally across the three macro-regions (North, South, and Cities) 
-and operational costs were weighted by the proportion of a given food vehicle that was consumed in a given 
-macro-region. A specific cost model was collaboratively developed for the hypothetical multi-fortified bouillon cube program. The structure of the model is very similar to
+included to adjust the estimates of program costs and program impacts. To estimate the subnational
+costs of national fortification programs, start-up costs were allocated equally across the three macro-
+regions (North, South, and Cities) and operational costs were weighted by the proportion of a given food
+vehicle that was consumed in a given macro-region. A specific cost model was collaboratively developed
+for the hypothetical multi-fortified bouillon cube program. The structure of the model is very similar to
 those developed for other existing large-scale food fortification programs (e.g., wheat flour or edible
 oils) 18, and key model parameters (including premix fortificant costs) were established during a series
 of key informant interviews with collaborators who are very familiar with the food fortification
