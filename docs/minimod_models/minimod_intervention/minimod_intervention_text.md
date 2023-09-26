@@ -17,6 +17,8 @@ experiment with alternative choices regarding the types and amounts of fortifica
 premix, including overage amounts (where relevant). Start-up investments and recurring costs faced by
 industry and government are included in detail in the cost model.
 
+![..](pictures/Cost Model.png)
+
 The degree of compliance of fortification programs to published standards varies across programs, e.g.,
 in the specific case of Cameroon, the current wheat flour (zinc and folic acid) and edible oils (VA)
 programs perform at 33% and 75% of standards, respectively; these performance indicators were
