@@ -9,6 +9,8 @@ achieving VA adequacy. The information in the first and final ‘boxes’ in the
 the information in the two intermediate boxes is provided by the MINIMOD nutritional needs/benefits
 model.
 
+![Alt Text](docs/pictures/LiST.png)
+
 What follows is an example of the data and methods used in the specific context of Cameroon and taken
 from Vosti et al. 2022. The MINIMOD nutrition model was linked with LiST to estimate the number of
 lives saved based on the effective coverage of each intervention program via a series of micronutrient-
