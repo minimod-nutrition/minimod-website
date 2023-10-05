@@ -4,13 +4,13 @@
 #
 #    pip-compile requirements.in
 #
-babel==2.12.1
+babel==2.13.0
     # via
     #   mkdocs-git-revision-date-localized-plugin
     #   mkdocs-material
 certifi==2023.7.22
     # via requests
-charset-normalizer==3.2.0
+charset-normalizer==3.3.0
     # via requests
 click==8.1.7
     # via mkdocs
@@ -62,7 +62,7 @@ mkdocs-git-revision-date-localized-plugin==1.2.0
     # via -r requirements.in
 mkdocs-macros-plugin==1.0.4
     # via -r requirements.in
-mkdocs-material==9.4.2
+mkdocs-material==9.4.4
     # via -r requirements.in
 mkdocs-material-extensions==1.2
     # via mkdocs-material
@@ -72,7 +72,7 @@ numpy==1.24.4
     # via pandas
 openpyxl==3.1.2
     # via -r requirements.in
-packaging==23.1
+packaging==23.2
     # via mkdocs
 paginate==0.5.6
     # via mkdocs-material
@@ -80,7 +80,7 @@ pandas==2.0.3
     # via mkdocs-table-reader-plugin
 pathspec==0.11.2
     # via mkdocs
-platformdirs==3.10.0
+platformdirs==3.11.0
     # via mkdocs
 pybtex==0.24.0
     # via mkdocs-bibtex
@@ -110,7 +110,7 @@ pyyaml==6.0.1
     #   pyyaml-env-tag
 pyyaml-env-tag==0.1
     # via mkdocs
-regex==2023.8.8
+regex==2023.10.3
     # via mkdocs-material
 requests==2.31.0
     # via
@@ -129,7 +129,7 @@ termcolor==2.3.0
     # via mkdocs-macros-plugin
 tzdata==2023.3
     # via pandas
-urllib3==2.0.5
+urllib3==2.0.6
     # via requests
 validators==0.22.0
     # via mkdocs-bibtex
