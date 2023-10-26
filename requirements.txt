@@ -4,13 +4,13 @@
 #
 #    pip-compile requirements.in
 #
-babel==2.13.0
+babel==2.13.1
     # via
     #   mkdocs-git-revision-date-localized-plugin
     #   mkdocs-material
 certifi==2023.7.22
     # via requests
-charset-normalizer==3.3.0
+charset-normalizer==3.3.1
     # via requests
 click==8.1.7
     # via mkdocs
@@ -20,7 +20,7 @@ et-xmlfile==1.1.0
     # via openpyxl
 ghp-import==2.1.0
     # via mkdocs
-gitdb==4.0.10
+gitdb==4.0.11
     # via gitpython
 gitpython==3.1.40
     # via mkdocs-git-revision-date-localized-plugin
@@ -82,7 +82,7 @@ pybtex==0.24.0
     # via mkdocs-bibtex
 pygments==2.16.1
     # via mkdocs-material
-pymdown-extensions==10.3
+pymdown-extensions==10.3.1
     # via mkdocs-material
 pypandoc==1.12
     # via mkdocs-bibtex
