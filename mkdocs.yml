@@ -9,7 +9,7 @@ nav:
     - Collaboration, Training, and Policy Engagement: overview/outreach.md
   - Focus Countries:
     - World Map: countries/index.md
-    - Burkina Faso: 
+    - Burkina Faso:
       - Background and Policy Issues: countries/burkina_faso/background.md
       - Micronutrient Intervention Programs: countries/burkina_faso/programs.md
       - Tool Development: countries/burkina_faso/tool_development.md
@@ -20,25 +20,25 @@ nav:
       - Micronutrient Intervention Programs: countries/cameroon/programs.md
       - Tool Development: countries/cameroon/tool_development.md
       - Policy Engagement: countries/cameroon/policy_engagement.md
-    - Ethiopia: 
+    - Ethiopia:
       - Background: countries/ethiopia/background.md
       - Micronutrient Intervention Programs: countries/ethiopia/programs.md
-    - Ghana: 
+    - Ghana:
       - Background: countries/ghana/background.md
       - Micronutrient Intervention Programs: countries/ghana/programs.md
-    - Haiti: 
+    - Haiti:
       - Background: countries/haiti/background.md
       - Micronutrient Intervention Programs: countries/haiti/programs.md
-    - Malawi: 
+    - Malawi:
       - Background: countries/malawi/background.md
       - Micronutrient Intervention Programs: countries/malawi/programs.md
-    - Nigeria: 
+    - Nigeria:
       - Background and Policy Issues: countries/nigeria/background.md
       - Micronutrient Intervention Programs: countries/nigeria/programs.md
       - Tool Development: countries/nigeria/tool_development.md
       - Policy Engagement: countries/nigeria/policy.md
       - Collaborating Organizations: countries/nigeria/collaborations.md
-    - Senegal: 
+    - Senegal:
       - Background and Policy Issues: countries/senegal/background.md
       - Micronutrient Intervention Programs: countries/senegal/programs.md
       - Tool Development: countries/senegal/tool_development.md
@@ -55,7 +55,7 @@ nav:
     - MINIMOD Economic Optimization Model: minimod_models/minimod_optimization/minimod_optimization_text.md
   - Publications: publications.md
   - Collaborations: collaborations.md
-  - Related Resources: related_resources.md 
+  - Related Resources: related_resources.md
   - Apps: apps.md
   - About Us:
     - Directory: about/directory.md
