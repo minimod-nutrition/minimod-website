@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Publications
+# Publications and Outreach Materials
 
 ## MINIMOD Publications
 
