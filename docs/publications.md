@@ -7,9 +7,9 @@ hide:
 
 ## MINIMOD Publications
 
-[Engle-Stone, R., S. Vosti, and A. Tarini. 2024. Bouillon Fortification in Burkina Faso: Modeled Evidence. West Africa Bouillon Fortification Initiative.](../files/Research Brief #1_Modeling_Burkina Faso 22March2024_final.pdf)
+<a href="../files/Research%20Brief%20#1_Modeling_Burkina%20Faso%2022March2024_final.pdf">Engle-Stone, R., S. Vosti, and A. Tarini. 2024. Bouillon Fortification in Burkina Faso: Modeled Evidence. West Africa Bouillon Fortification Initiative.</a>
 
-[Engle-Stone, R., S. Vosti, and A. Tarini. 2024. Bouillon Fortification in Senegal: Modeled Evidence. West Africa Bouillon Fortification Initiative.](../files/Research Brief #1_Modeling_Senegal_English 10Feb2024 final.pdf) | [<span lang="fr">version française</span>](../files/Research Brief #1_Modeling_Senegal_French_Feb 14.pdf)
+<a href="../files/Research Brief #1_Modeling_Senegal_English 10Feb2024 final.pdf">Engle-Stone, R., S. Vosti, and A. Tarini. 2024. Bouillon Fortification in Senegal: Modeled Evidence. West Africa Bouillon Fortification Initiative.</a> | <span lang="fr"><a href="../files/Research Brief #1_Modeling_Senegal_French_Feb 14.pdf">version française</a></span>
 
 [Adams, K. P., M. Jarvis, S. A. Vosti, M. S. Manger, A. Tarini, J. W. Somé, H. Somda and C. M. McDonald.  2023.  Estimating the cost and cost‐effectiveness of adding zinc to, and improving the performance of, Burkina Faso's mandatory wheat flour fortification programme.  Maternal & Child Nutrition, 2023, http://doi.org/10.1111/mcn.13515](http://doi.org/10.1111/mcn.13515)
 
