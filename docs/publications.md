@@ -7,6 +7,10 @@ hide:
 
 ## MINIMOD Publications
 
+[Engle-Stone, R., S. Vosti, and A. Tarini. 2024. Bouillon Fortification in Burkina Faso: Modeled Evidence. West Africa Bouillon Fortification Initiative.](../files/Research Brief #1_Modeling_Burkina Faso 22March2024_final.pdf)
+
+[Engle-Stone, R., S. Vosti, and A. Tarini. 2024. Bouillon Fortification in Senegal: Modeled Evidence. West Africa Bouillon Fortification Initiative.](../files/Research Brief #1_Modeling_Senegal_English 10Feb2024 final.pdf) | [<span lang="fr">version française</span>](../files/Research Brief #1_Modeling_Senegal_French_Feb 14.pdf)
+
 [Adams, K. P., M. Jarvis, S. A. Vosti, M. S. Manger, A. Tarini, J. W. Somé, H. Somda and C. M. McDonald.  2023.  Estimating the cost and cost‐effectiveness of adding zinc to, and improving the performance of, Burkina Faso's mandatory wheat flour fortification programme.  Maternal & Child Nutrition, 2023, http://doi.org/10.1111/mcn.13515](http://doi.org/10.1111/mcn.13515)
 
 [Haile, D.; Brown, K.H.; McDonald, C.M.; Luo, H.; Jarvis, M.; Teta, I.; Ndjebayi, A.; Martial, G.A.J.; Vosti, S.A.; Engle-Stone, R. 2022.  Applying Zinc Nutrient Reference Values as Proposed by Different Authorities Results in Large Differences in the Estimated Prevalence of Inadequate Zinc Intake by Young Children and Women and in Cameroon. Nutrients 2022, 14(4), 883; https://doi.org/10.3390/nu14040883.](https://doi.org/10.3390/nu14040883)
