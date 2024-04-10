@@ -7,9 +7,9 @@ hide:
 
 ## Outreach Materials
 
-[Engle-Stone, R., S. Vosti, and A. Tarini. 2024. Bouillon Fortification in Burkina Faso: Modeled Evidence. West Africa Bouillon Fortification Initiative.](../files/Research Brief #1_Modeling_Burkina Faso 22March2024_final.pdf)
+[Engle-Stone, R., S. Vosti, and A. Tarini. 2024. Bouillon Fortification in Burkina Faso: Modeled Evidence. West Africa Bouillon Fortification Initiative.](Research-Brief-1_Modeling_Burkina-Faso-22March2024_final.pdf)
 
-[Engle-Stone, R., S. Vosti, and A. Tarini. 2024. Bouillon Fortification in Senegal: Modeled Evidence. West Africa Bouillon Fortification Initiative.](../files/Research Brief #1_Modeling_Senegal_English 10Feb2024 final.pdf) | [<span lang="fr">version française</span>](../files/Research Brief #1_Modeling_Senegal_French_Feb 14.pdf)
+[Engle-Stone, R., S. Vosti, and A. Tarini. 2024. Bouillon Fortification in Senegal: Modeled Evidence. West Africa Bouillon Fortification Initiative.](Research-Brief-1_Modeling_Senegal_English-10Feb2024-final.pdf) | <span lang="fr">[version française](Research-Brief-1_Modeling_Senegal_French_Feb-14.pdf)</span>
 
 ## MINIMOD Publications
 
@@ -77,9 +77,9 @@ hide:
 
 [Engle-Stone, R.,  Nankap, M., Ndjebayi, A.O., Allen, L.H., Shahab-Ferdows, S., Hampel, D., Killilea, D.W., Gimou, M., Houghton, L.A., Friedman, A., Tarini, A., Stamm, R.A., and K.H. Brown.  “Iron, Zinc, Folate, and Vitamin B-12 Status Increased among Women and Children in Yaoundè and Douala, Cameroon, 1 Year after Introducing Fortified Wheat Flour.” The Journal of Nutrition, 7 June 2017. [E-pub ahead of print].](https://pubmed.ncbi.nlm.nih.gov/28592513/)
 
-[Engle-Stone, R., Stewart, C.P., Luo, H., Vosti, S.A., and K.P. Adams. “Preventive Nutrition Interventions." Copenhagen Consensus Haïti Priorise, 2017.](https://www.copenhagenconsensus.com/sites/default/files/haiti_priorise_nutrition_-_english.pdf)
+[Engle-Stone, R., Stewart, C.P., Luo, H., Vosti, S.A., and K.P. Adams. “Preventive Nutrition Interventions." Copenhagen Consensus Haïti Priorise, 2017.](https://www.copenhagenconsensus.com/sites/defaulthaiti_priorise_nutrition_-_english.pdf)
 
-[Vosti, S.A., K.P. Adams. “Expanding Community-Based Management of Children Suffering from Moderate and Severe Acute Malnutrition Using a Standard and a Local RUTF Formula.” Copenhagen Consensus Haïti Priorise, 2017.](https://www.copenhagenconsensus.com/sites/default/files/haiti_priorise_wasting_vosti_-_english.pdf)
+[Vosti, S.A., K.P. Adams. “Expanding Community-Based Management of Children Suffering from Moderate and Severe Acute Malnutrition Using a Standard and a Local RUTF Formula.” Copenhagen Consensus Haïti Priorise, 2017.](https://www.copenhagenconsensus.com/sites/defaulthaiti_priorise_wasting_vosti_-_english.pdf)
 
 [Adams, K.P., T.J. Lybbert, S.A. Vosti, E. Ayifah.  2016.  Using an Economic Experiment to Estimate Willingness-to-Pay for a New Maternal Nutrient Supplement in Ghana.  Agricultural Economics 47 (2016) 1–15, DOI: 10.1111/agec.12257.](https://onlinelibrary.wiley.com/doi/10.1111/agec.12257)
 
