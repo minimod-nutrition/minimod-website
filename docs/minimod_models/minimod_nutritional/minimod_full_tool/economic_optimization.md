@@ -1,6 +1,6 @@
 ## Optimization Model
 
-![](../../pictures/models.jpg)
+![](../../../pictures/models.jpg)
 
 As summarized in the figure above, to provide input into the planning and more efficient management of micronutrient intervention programs in Cameroon, the MINIMOD team has developed three sets of models. First, the nutrition benefits models use data on usual dietary intakes to provide spatially-explicit estimates of the number of individuals with low micronutrient intake and the predicted effect of candidate interventions, or combinations of them, on the number of individuals with low intake, or related outcomes. Second, cost models estimate, over time and over space, the total financial cost of delivering these interventions to target beneficiary groups. Finally, an economic optimization model combines the predicted benefits and estimated costs of all possible interventions (and combinations thereof) to determine the most cost-effective set of interventions, over time and over space.
 
