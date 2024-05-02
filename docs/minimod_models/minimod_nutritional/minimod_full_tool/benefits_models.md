@@ -10,7 +10,7 @@ The nutrition benefits models use dietary intake data that were collected using 
 
 ### Estimation Methods
 
-![](../../pictures/folate_distributions_2.jpg)
+![](../../../pictures/folate_distributions_2.jpg)
 
 Details of the dietary modeling methods are available [here](https://www.ncbi.nlm.nih.gov/pubmed/25332482) and [here](http://journals.sagepub.com/doi/abs/10.1177/0379572115595888).
 

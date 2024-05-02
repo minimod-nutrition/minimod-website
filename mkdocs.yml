@@ -90,7 +90,6 @@ plugins:
   - macros
   - bibtex:
       bib_file: "refs.bib"
-      cite_style: "pandoc"
 
 extra:
   url_prefix: !!python/object/apply:os.getenv ["MM_DOCS_URL_PREFIX"]

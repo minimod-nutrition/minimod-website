@@ -1,0 +1,13 @@
+bandit
+fabric
+flake8
+jedi
+jedi-language-server
+mypy
+neovim
+pycodestyle
+pydocstyle
+pyjslint
+pylint
+reorder-python-imports
+types-pytz

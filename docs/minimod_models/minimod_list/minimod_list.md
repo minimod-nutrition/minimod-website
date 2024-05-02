@@ -9,7 +9,7 @@ achieving VA adequacy. The information in the first and final ‘boxes’ in the
 the information in the two intermediate boxes is provided by the MINIMOD nutritional needs/benefits
 model.
 
-![Alt Text](/pictures/LiST.png)
+![Alt Text](../../pictures/LiST.png)
 
 What follows is an example of the data and methods used in the specific context of Cameroon and taken
 from Vosti et al. 2022. The MINIMOD nutrition model was linked with LiST to estimate the number of
@@ -17,7 +17,7 @@ lives saved based on the effective coverage of each intervention program via a s
 specific pathways in LiST. Specific methods used to predict lives saved by VA interventions have been
 described previously. This method generates two estimates of the life-saving potential of VA, ‘low’ and
 ‘high.’ The two estimates reflect different assumptions about the relative efficacy of achieving dietary
-adequacy on mortality reduction, compared to receiving a high-dose VA supplement. A similar method 
+adequacy on mortality reduction, compared to receiving a high-dose VA supplement. A similar method
 was employed for zinc; however, we updated the effectiveness values applied in the original LiST model
 by: 1) adopting low plasma zinc concentration, rather than low prevalence of inadequate zinc intake in
 the food supply, as the measure of the proportion of the population assumed to benefit from zinc
