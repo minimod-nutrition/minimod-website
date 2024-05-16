@@ -13,6 +13,8 @@ hide:
 
 ## MINIMOD Publications
 
+[Travis J. Lybbert, Stella Nordhagen, Stephen A. Vosti, Lynnette M. Neufeld. 2024. Improving nutrition through blended finance and impact investing in small and medium enterprises in sub‐saharan Africa. Applied Economics Perspectives and Policies, 2024, https://doi.org/10.1002/aepp.13418). 
+
 [Adams, K. P., M. Jarvis, S. A. Vosti, M. S. Manger, A. Tarini, J. W. Somé, H. Somda and C. M. McDonald.  2023.  Estimating the cost and cost‐effectiveness of adding zinc to, and improving the performance of, Burkina Faso's mandatory wheat flour fortification programme.  Maternal & Child Nutrition, 2023, http://doi.org/10.1111/mcn.13515](http://doi.org/10.1111/mcn.13515)
 
 [Haile, D.; Brown, K.H.; McDonald, C.M.; Luo, H.; Jarvis, M.; Teta, I.; Ndjebayi, A.; Martial, G.A.J.; Vosti, S.A.; Engle-Stone, R. 2022.  Applying Zinc Nutrient Reference Values as Proposed by Different Authorities Results in Large Differences in the Estimated Prevalence of Inadequate Zinc Intake by Young Children and Women and in Cameroon. Nutrients 2022, 14(4), 883; https://doi.org/10.3390/nu14040883.](https://doi.org/10.3390/nu14040883)
