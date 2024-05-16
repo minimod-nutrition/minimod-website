@@ -62,7 +62,7 @@ mkdocs-git-revision-date-localized-plugin==1.2.5
     # via -r requirements.in
 mkdocs-macros-plugin==1.0.5
     # via -r requirements.in
-mkdocs-material==9.5.21
+mkdocs-material==9.5.23
     # via -r requirements.in
 mkdocs-material-extensions==1.3.1
     # via mkdocs-material
@@ -80,7 +80,7 @@ pandas==2.2.2
     # via mkdocs-table-reader-plugin
 pathspec==0.12.1
     # via mkdocs
-platformdirs==4.2.1
+platformdirs==4.2.2
     # via mkdocs-get-deps
 pybtex==0.24.0
     # via mkdocs-bibtex
@@ -110,7 +110,7 @@ pyyaml==6.0.1
     #   pyyaml-env-tag
 pyyaml-env-tag==0.1
     # via mkdocs
-regex==2024.4.28
+regex==2024.5.15
     # via mkdocs-material
 requests==2.31.0
     # via
