@@ -25,7 +25,7 @@ cffi==1.16.0
     #   pynacl
 classify-imports==4.2.0
     # via reorder-python-imports
-cryptography==42.0.7
+cryptography==42.0.8
     # via paramiko
 decorator==5.1.1
     # via fabric
@@ -97,7 +97,7 @@ pygments==2.18.0
     # via rich
 pyjslint==0.3.4
     # via -r requirements/dev.in
-pylint==3.2.2
+pylint==3.2.3
     # via -r requirements/dev.in
 pynacl==1.5.0
     # via paramiko
@@ -105,7 +105,7 @@ pynvim==0.5.0
     # via neovim
 pyyaml==6.0.1
     # via bandit
-reorder-python-imports==3.12.0
+reorder-python-imports==3.13.0
     # via -r requirements/dev.in
 rich==13.7.1
     # via bandit
@@ -121,7 +121,7 @@ tomlkit==0.12.5
     # via pylint
 types-pytz==2024.1.0.20240417
     # via -r requirements/dev.in
-typing-extensions==4.12.0
+typing-extensions==4.12.1
     # via
     #   astroid
     #   cattrs
