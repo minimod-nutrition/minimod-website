@@ -4,7 +4,7 @@
 #
 #    pip-compile --strip-extras requirements/dev.in
 #
-astroid==3.2.2
+astroid==3.2.3
     # via pylint
 attrs==23.2.0
     # via
@@ -97,7 +97,7 @@ pygments==2.18.0
     # via rich
 pyjslint==0.3.4
     # via -r requirements/dev.in
-pylint==3.2.4
+pylint==3.2.5
     # via -r requirements/dev.in
 pynacl==1.5.0
     # via paramiko
@@ -117,7 +117,7 @@ tomli==2.0.1
     # via
     #   mypy
     #   pylint
-tomlkit==0.12.5
+tomlkit==0.13.0
     # via pylint
 types-pytz==2024.1.0.20240417
     # via -r requirements/dev.in
