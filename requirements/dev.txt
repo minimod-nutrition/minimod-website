@@ -35,7 +35,7 @@ dill==0.3.8
     # via pylint
 docstring-to-markdown==0.15
     # via jedi-language-server
-exceptiongroup==1.2.1
+exceptiongroup==1.2.2
     # via cattrs
 fabric==3.2.2
     # via -r requirements/dev.in
