@@ -86,8 +86,8 @@ copyright: Copyright &copy The Regents of the University of California, Davis ca
 plugins:
   - git-revision-date-localized
   - search
-  - table-reader
   - macros
+  - table-reader
   - bibtex:
       bib_file: "refs.bib"
 
