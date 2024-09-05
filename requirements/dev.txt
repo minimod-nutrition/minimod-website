@@ -19,13 +19,13 @@ cattrs==24.1.0
     #   jedi-language-server
     #   lsprotocol
     #   pygls
-cffi==1.17.0
+cffi==1.17.1
     # via
     #   cryptography
     #   pynacl
 classify-imports==4.2.0
     # via reorder-python-imports
-cryptography==43.0.0
+cryptography==43.0.1
     # via paramiko
 decorator==5.1.1
     # via fabric
@@ -97,7 +97,7 @@ pygments==2.18.0
     # via rich
 pyjslint==0.3.4
     # via -r requirements/dev.in
-pylint==3.2.6
+pylint==3.2.7
     # via -r requirements/dev.in
 pynacl==1.5.0
     # via paramiko
