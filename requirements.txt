@@ -58,7 +58,7 @@ mkdocs-bibtex==2.16.2
     # via -r requirements.in
 mkdocs-get-deps==0.2.0
     # via mkdocs
-mkdocs-git-revision-date-localized-plugin==1.2.7
+mkdocs-git-revision-date-localized-plugin==1.2.9
     # via -r requirements.in
 mkdocs-macros-plugin==1.0.5
     # via -r requirements.in
@@ -80,7 +80,7 @@ pandas==2.2.2
     # via mkdocs-table-reader-plugin
 pathspec==0.12.1
     # via mkdocs
-platformdirs==4.2.2
+platformdirs==4.3.2
     # via mkdocs-get-deps
 pybtex==0.24.0
     # via mkdocs-bibtex
@@ -95,7 +95,7 @@ python-dateutil==2.9.0.post0
     #   ghp-import
     #   mkdocs-macros-plugin
     #   pandas
-pytz==2024.1
+pytz==2024.2
     # via
     #   mkdocs-git-revision-date-localized-plugin
     #   pandas
@@ -110,7 +110,7 @@ pyyaml==6.0.2
     #   pyyaml-env-tag
 pyyaml-env-tag==0.1
     # via mkdocs
-regex==2024.7.24
+regex==2024.9.11
     # via mkdocs-material
 requests==2.32.3
     # via
@@ -128,7 +128,7 @@ termcolor==2.4.0
     # via mkdocs-macros-plugin
 tzdata==2024.1
     # via pandas
-urllib3==2.2.2
+urllib3==2.2.3
     # via requests
 validators==0.34.0
     # via mkdocs-bibtex
