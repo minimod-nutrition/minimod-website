@@ -14,7 +14,7 @@ bandit==1.7.9
     # via -r requirements/dev.in
 bcrypt==4.2.0
     # via paramiko
-cattrs==24.1.0
+cattrs==24.1.1
     # via
     #   jedi-language-server
     #   lsprotocol
@@ -41,7 +41,7 @@ fabric==3.2.2
     # via -r requirements/dev.in
 flake8==7.1.1
     # via -r requirements/dev.in
-greenlet==3.0.3
+greenlet==3.1.0
     # via pynvim
 invoke==2.2.0
     # via fabric
@@ -65,7 +65,7 @@ mccabe==0.7.0
     #   pylint
 mdurl==0.1.2
     # via markdown-it-py
-msgpack==1.0.8
+msgpack==1.1.0
     # via pynvim
 mypy==1.11.2
     # via -r requirements/dev.in
@@ -107,7 +107,7 @@ pyyaml==6.0.2
     # via bandit
 reorder-python-imports==3.13.0
     # via -r requirements/dev.in
-rich==13.8.0
+rich==13.8.1
     # via bandit
 snowballstemmer==2.2.0
     # via pydocstyle
