@@ -25,7 +25,7 @@ cffi==1.17.1
     #   pynacl
 classify-imports==4.2.0
     # via reorder-python-imports
-cryptography==43.0.1
+cryptography==43.0.3
     # via paramiko
 decorator==5.1.1
     # via fabric
@@ -67,7 +67,7 @@ mdurl==0.1.2
     # via markdown-it-py
 msgpack==1.1.0
     # via pynvim
-mypy==1.12.0
+mypy==1.13.0
     # via -r requirements/dev.in
 mypy-extensions==1.0.0
     # via mypy
@@ -107,7 +107,7 @@ pyyaml==6.0.2
     # via bandit
 reorder-python-imports==3.14.0
     # via -r requirements/dev.in
-rich==13.9.2
+rich==13.9.3
     # via bandit
 snowballstemmer==2.2.0
     # via pydocstyle
