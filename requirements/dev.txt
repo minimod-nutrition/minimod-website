@@ -47,11 +47,11 @@ invoke==2.2.0
     # via fabric
 isort==5.13.2
     # via pylint
-jedi==0.19.1
+jedi==0.19.2
     # via
     #   -r requirements/dev.in
     #   jedi-language-server
-jedi-language-server==0.41.4
+jedi-language-server==0.42.0
     # via -r requirements/dev.in
 lsprotocol==2023.0.1
     # via
@@ -101,7 +101,7 @@ pylint==3.3.1
     # via -r requirements/dev.in
 pynacl==1.5.0
     # via paramiko
-pynvim==0.5.1
+pynvim==0.5.2
     # via neovim
 pyyaml==6.0.2
     # via bandit
@@ -113,7 +113,7 @@ snowballstemmer==2.2.0
     # via pydocstyle
 stevedore==5.3.0
     # via bandit
-tomli==2.0.2
+tomli==2.1.0
     # via
     #   mypy
     #   pylint
@@ -126,6 +126,7 @@ typing-extensions==4.12.2
     #   astroid
     #   cattrs
     #   mypy
+    #   pynvim
     #   rich
 wrapt==1.16.0
     # via deprecated
