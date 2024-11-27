@@ -128,5 +128,5 @@ typing-extensions==4.12.2
     #   mypy
     #   pynvim
     #   rich
-wrapt==1.16.0
+wrapt==1.17.0
     # via deprecated
