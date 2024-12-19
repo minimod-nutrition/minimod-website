@@ -6,7 +6,7 @@
 #
 astroid==3.3.6
     # via pylint
-attrs==24.2.0
+attrs==24.3.0
     # via
     #   cattrs
     #   lsprotocol
