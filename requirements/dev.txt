@@ -4,7 +4,7 @@
 #
 #    pip-compile requirements/dev.in
 #
-astroid==3.3.6
+astroid==3.3.8
     # via pylint
 attrs==24.3.0
     # via
@@ -51,7 +51,7 @@ jedi==0.19.2
     # via
     #   -r requirements/dev.in
     #   jedi-language-server
-jedi-language-server==0.42.0
+jedi-language-server==0.43.1
     # via -r requirements/dev.in
 lsprotocol==2023.0.1
     # via
@@ -67,7 +67,7 @@ mdurl==0.1.2
     # via markdown-it-py
 msgpack==1.1.0
     # via pynvim
-mypy==1.13.0
+mypy==1.14.1
     # via -r requirements/dev.in
 mypy-extensions==1.0.0
     # via mypy
@@ -93,11 +93,11 @@ pyflakes==3.2.0
     # via flake8
 pygls==1.3.1
     # via jedi-language-server
-pygments==2.18.0
+pygments==2.19.1
     # via rich
 pyjslint==0.3.4
     # via -r requirements/dev.in
-pylint==3.3.2
+pylint==3.3.3
     # via -r requirements/dev.in
 pynacl==1.5.0
     # via paramiko
@@ -119,7 +119,7 @@ tomli==2.2.1
     #   pylint
 tomlkit==0.13.2
     # via pylint
-types-pytz==2024.2.0.20241003
+types-pytz==2024.2.0.20241221
     # via -r requirements/dev.in
 typing-extensions==4.12.2
     # via
