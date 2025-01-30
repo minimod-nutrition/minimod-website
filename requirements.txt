@@ -58,7 +58,7 @@ mkdocs==1.6.1
     #   mkdocs-macros-plugin
     #   mkdocs-material
     #   mkdocs-table-reader-plugin
-mkdocs-bibtex==4.0.1
+mkdocs-bibtex==4.1.0
     # via -r requirements.in
 mkdocs-get-deps==0.2.0
     # via mkdocs
@@ -94,7 +94,7 @@ pybtex==0.24.0
     # via mkdocs-bibtex
 pygments==2.19.1
     # via mkdocs-material
-pymdown-extensions==10.14.1
+pymdown-extensions==10.14.2
     # via mkdocs-material
 pypandoc==1.15
     # via mkdocs-bibtex
