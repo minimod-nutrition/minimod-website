@@ -67,17 +67,17 @@ mdurl==0.1.2
     # via markdown-it-py
 msgpack==1.1.0
     # via pynvim
-mypy==1.14.1
+mypy==1.15.0
     # via -r requirements/dev.in
 mypy-extensions==1.0.0
     # via mypy
 neovim==0.3.1
     # via -r requirements/dev.in
-paramiko==3.5.0
+paramiko==3.5.1
     # via fabric
 parso==0.8.4
     # via jedi
-pbr==6.1.0
+pbr==6.1.1
     # via stevedore
 platformdirs==4.3.6
     # via pylint
@@ -119,7 +119,7 @@ tomli==2.2.1
     #   pylint
 tomlkit==0.13.2
     # via pylint
-types-pytz==2024.2.0.20241221
+types-pytz==2025.1.0.20250204
     # via -r requirements/dev.in
 typing-extensions==4.12.2
     # via
@@ -130,3 +130,6 @@ typing-extensions==4.12.2
     #   rich
 wrapt==1.17.2
     # via deprecated
+
+# The following packages are considered to be unsafe in a requirements file:
+# setuptools
