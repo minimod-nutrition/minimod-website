@@ -25,7 +25,7 @@ cffi==1.17.1
     #   pynacl
 classify-imports==4.2.0
     # via reorder-python-imports
-cryptography==44.0.0
+cryptography==44.0.1
     # via paramiko
 decorator==5.1.1
     # via fabric
