@@ -5,7 +5,7 @@
 
 
 ## Project Manager
-|![](../pictures/vosti_steve.jpg){align=left} | **Dr. Stephen Vosti** <br> Adjunct Professor Emeritus, Department of Agricultural and Resource Economics, UC Davis <br>   Co-PI, Economics, MINIMOD Project, Institute for Global Nutrition, UC Davis <br> [:material-email:](mailto:vosti@primal.ucdavis.edu) [:material-web:](http://are.ucdavis.edu/people/faculty/stephen-vosti/) [:material-book:](https://scholar.google.com/citations?user=5tviTWQAAAAJ&hl=en)|
+|![](../pictures/vosti_steve.jpg){align=left} | **Dr. Stephen Vosti** <br> Adjunct Professor Emeritus, Department of Agricultural and Resource Economics, UC Davis <br>   Co-PI, Economics, MINIMOD Project, Institute for Global Nutrition, UC Davis <br> [:material-email:](mailto:savosti@ucdavis.edu) [:material-web:](https://are.ucdavis.edu/people/emeriti/stephen-vosti/) [:material-book:](https://scholar.google.com/citations?user=5tviTWQAAAAJ&hl=en)|
 | ![](../pictures/engle-stone_reina.jpg){align=left} | **Dr. Reina Engle-Stone** <br> Assistant Professor, Department of Nutrition, UC Davis <br> Co-PI, Nutrition, MINIMOD Project, Institute for Global Nutrition, UC Davis <br> [:material-email:](mailto:renglestone@ucdavis.edu) [:material-web:](http://nutrition.ucdavis.edu/people/faculty/englestone_reina.html) [:material-book:](https://scholar.google.com/citations?user=3IdJLu8AAAAJ&amp;hl=en) |
 
 
