@@ -10,7 +10,7 @@ attrs==25.1.0
     # via
     #   cattrs
     #   lsprotocol
-bandit==1.8.2
+bandit==1.8.3
     # via -r requirements/dev.in
 bcrypt==4.2.1
     # via paramiko
@@ -39,7 +39,7 @@ exceptiongroup==1.2.2
     # via cattrs
 fabric==3.2.2
     # via -r requirements/dev.in
-flake8==7.1.1
+flake8==7.1.2
     # via -r requirements/dev.in
 greenlet==3.1.1
     # via pynvim
@@ -111,7 +111,7 @@ rich==13.9.4
     # via bandit
 snowballstemmer==2.2.0
     # via pydocstyle
-stevedore==5.4.0
+stevedore==5.4.1
     # via bandit
 tomli==2.2.1
     # via

@@ -55,7 +55,7 @@ hide:
 
     <div class="carousel-item">
     <figure>
-    
+
       <img
         src="pictures/fortified_wheat.jpeg"
         alt="..."
@@ -69,7 +69,7 @@ hide:
 
     <div class="carousel-item">
     <figure>
-    
+
       <img
         src="pictures/fortified_maize_option_2.jpeg"
         alt="..."
@@ -83,7 +83,7 @@ hide:
 
     <div class="carousel-item">
     <figure>
-    
+
       <img
         src="pictures/orange_flesh_sweet_potatoes.jpeg"
         alt="..."
@@ -97,7 +97,7 @@ hide:
 
     <div class="carousel-item">
     <figure>
-    
+
       <img
         src="pictures/iron_fortified_beans.jpeg"
         alt="..."
@@ -111,7 +111,7 @@ hide:
 
     <div class="carousel-item">
     <figure>
-    
+
       <img
         src="pictures/fortified-soybean-oil.png"
         alt="..."
@@ -125,7 +125,7 @@ hide:
 
     <div class="carousel-item">
     <figure>
-    
+
       <img
         src="pictures/bouillon-cubes-fortified.jpeg"
         alt="..."
@@ -138,7 +138,7 @@ hide:
     </div>
 
 
-    
+
   </div>
   <!-- Inner -->
 
@@ -210,12 +210,12 @@ Burkina Faso, Cameroon, Ethiopia, Ghana, Haiti, Malawi, Nigeria, Senegal
 ## Suite of Models Available
 
  - MINIMOD-Full model making use of individual dietary intake and other primary data to assess levels of inadequate micronutrient intake, nationally and subnationally, and to estimate the impacts on inadequate intake of alternative micronutrient intervention programs.
- -  MINIMOD-SD model making use of household dietary intake and other data to assess levels of inadequate apparent micronutrient intake, nationally and subnationally, and to estimate the impacts on inadequate apparent intake of alternative micronutrient intervention programs.  
+ -  MINIMOD-SD model making use of household dietary intake and other data to assess levels of inadequate apparent micronutrient intake, nationally and subnationally, and to estimate the impacts on inadequate apparent intake of alternative micronutrient intervention programs.
  - MINIMOD Cost model making use of detailed primary data on fortification and supplementation intervention programs, and secondary demographic and other data, to estimate the costs of alternative micronutrient intervention programs during the start-up and operational phases of programs, and for different stakeholder groups for all programmatic phases.
 
-**For more information:** Contact Dr. Stephen A. Vosti [(vosti@primal.ucdavis.edu)](mailto:vosti@primal.ucdavis.edu), or Dr. Reina Engle-Stone [(renglestone@ucdavis.edu)](mailto:renglestone@ucdavis.edu), Dr. Katherine Adams [(kpittenger@ucdavis.edu)](mailto:kpittenger@ucdavis.edu).
+**For more information:** Contact Dr. Stephen A. Vosti [(savosti@ucdavis.edu)](mailto:savosti@ucdavis.edu), or Dr. Reina Engle-Stone [(renglestone@ucdavis.edu)](mailto:renglestone@ucdavis.edu), Dr. Katherine Adams [(kpittenger@ucdavis.edu)](mailto:kpittenger@ucdavis.edu).
 
-## Project Partners 
+## Project Partners
 
 Helen Keller International Headquarters and Country Offices in Burkina Faso, Cameroon, Nigeria, and Senegal; Ethiopian Public Health Institute; University of Ghana, Legon; Johns Hopkins University Bloomberg School of Public Health; Federal Ministries of Health and collaborating organizations in all project countries; and Nutrition International.
 
