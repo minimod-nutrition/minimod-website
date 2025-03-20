@@ -60,21 +60,21 @@ mkdocs==1.6.1
     #   mkdocs-macros-plugin
     #   mkdocs-material
     #   mkdocs-table-reader-plugin
-mkdocs-bibtex==4.2.2
+mkdocs-bibtex==4.2.3
     # via -r requirements.in
 mkdocs-get-deps==0.2.0
     # via mkdocs
-mkdocs-git-revision-date-localized-plugin==1.4.1
+mkdocs-git-revision-date-localized-plugin==1.4.5
     # via -r requirements.in
 mkdocs-macros-plugin==1.3.7
     # via -r requirements.in
-mkdocs-material==9.6.7
+mkdocs-material==9.6.9
     # via -r requirements.in
 mkdocs-material-extensions==1.3.1
     # via mkdocs-material
 mkdocs-table-reader-plugin==3.1.0
     # via -r requirements.in
-numpy==2.2.3
+numpy==2.2.4
     # via pandas
 openpyxl==3.1.5
     # via -r requirements.in
@@ -90,7 +90,7 @@ pathspec==0.12.1
     # via
     #   mkdocs
     #   mkdocs-macros-plugin
-platformdirs==4.3.6
+platformdirs==4.3.7
     # via mkdocs-get-deps
 pybtex==0.24.0
     # via mkdocs-bibtex
@@ -126,7 +126,7 @@ requests==2.32.3
     #   mkdocs-bibtex
     #   mkdocs-material
     #   responses
-responses==0.25.6
+responses==0.25.7
     # via mkdocs-bibtex
 six==1.17.0
     # via
