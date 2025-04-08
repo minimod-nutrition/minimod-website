@@ -7,6 +7,8 @@ hide:
 
 ## Outreach Materials
 
+[Engle-Stone, R. and S. Vosti. 2025. Bouillon Fortification in Nigeria: Modeled Evidence.](publications/Research_Brief_1_Modeling_Nigeria_11Mar2025.pdf)
+
 [Engle-Stone, R., S. Vosti, and A. Tarini. 2024. Bouillon Fortification in Burkina Faso: Modeled Evidence. West Africa Bouillon Fortification Initiative.](publications/Research-Brief-1_Modeling_Burkina-Faso-22March2024_final.pdf) | <span lang="fr">[version française](publications/Research-Brief-1_Modeling_Burkina-Faso-22March2024_final_translated_FR.pdf)</span>
 
 [Engle-Stone, R., S. Vosti, and A. Tarini. 2024. Bouillon Fortification in Senegal: Modeled Evidence. West Africa Bouillon Fortification Initiative.](publications/Research-Brief-1_Modeling_Senegal_English-10Feb2024-final.pdf) | <span lang="fr">[version française](publications/Research-Brief-1_Modeling_Senegal_French_Feb-14.pdf)</span>
