@@ -17,13 +17,25 @@ hide:
 
 [Colina, A. R., S. A. Vosti, M. Jarvis, R. Engle-Stone, A. Michuda, et al. 2025. Cost effectiveness of fortified bouillon in addressing Burkinabe children’s vitamin A inadequacy: An economic optimization model. Ann NY Acad Sci., 1544(1), 143-158. https://doi.org/10.1111/nyas.15290](publications/Colina_et_al_Cost_effectiveness_of_fortified_bouillon_NYAS_2025.pdf)
 
+[Vosti, S. A., M. Jarvis, O. M. Anjorin, R. Engle-Stone, M. Beye, et al. 2024. The costs and the potential allocation of costs of bouillon fortification: The cases of Nigeria, Senegal, and Burkina Faso. Ann NY Acad Sci., 1541(1), 181-201. https://doi.org/10.1111/nyas.15234](https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.15234)
+
+[Thompson, L., E. Becher, K. P. Adams, ... S. A. Vosti, R. Engle-Stone, et al. 2024. Correction to Modeled impacts of bouillon fortification with micronutrients on child mortality in Senegal, Burkina Faso, and Nigeria. Ann NY Acad Sci., 1540(1), 350-350. https://doi.org/10.1111/nyas.15174](https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.15174)
+
+[Adams, K. P., S. A. Vosti, E. Becher, F. Ishaya, and R. Engle-Stone. 2024. Bouillon fortification as a strategy to address inequities in micronutrient adequacy of diets in Nigeria. Ann NY Acad Sci., 1540(1), 235-250. https://doi.org/10.1111/nyas.15207](https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.15207)
+
+[Adams, K. P., S. A. Vosti, A. Tarini, M. Beye, et al. 2024. The potential contributions of bouillon fortification to meeting micronutrient requirements among women and preschool children in Senegal: A modeling study using household consumption and expenditure survey data. Ann NY Acad Sci., 1537(1), 98-112. https://doi.org/10.1111/nyas.15156](https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.15156)
+
+[Thompson, L., E. Becher, K. P. Adams, ... S. A. Vosti, R. Engle-Stone, et al. 2024. Modeled impacts of bouillon fortification with micronutrients on child mortality in Senegal, Burkina Faso, and Nigeria. Ann NY Acad Sci., 1537(1), 82-97. https://doi.org/10.1111/nyas.15174](https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.15174)
+
+[Adams, K. P., S. A. Vosti, J. W. Somé, A. Tarini, ... R. Engle-Stone, et al. 2024. Micronutrient-fortified bouillon as a strategy to improve the micronutrient adequacy of diets in Burkina Faso. Ann NY Acad Sci., 1536(1), 135-150. https://doi.org/10.1111/nyas.15155](https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.15155)
+
 [Travis J. Lybbert, Stella Nordhagen, Stephen A. Vosti, Lynnette M. Neufeld. 2024. Improving nutrition through blended finance and impact investing in small and medium enterprises in sub‐saharan Africa. Applied Economics Perspectives and Policies, 2024](https://doi.org/10.1002/aepp.13418).
 
 [Adams, K. P., M. Jarvis, S. A. Vosti, M. S. Manger, A. Tarini, J. W. Somé, H. Somda and C. M. McDonald.  2023.  Estimating the cost and cost‐effectiveness of adding zinc to, and improving the performance of, Burkina Faso's mandatory wheat flour fortification programme.  Maternal & Child Nutrition, 2023, http://doi.org/10.1111/mcn.13515](http://doi.org/10.1111/mcn.13515)
 
 [Haile, D.; Brown, K.H.; McDonald, C.M.; Luo, H.; Jarvis, M.; Teta, I.; Ndjebayi, A.; Martial, G.A.J.; Vosti, S.A.; Engle-Stone, R. 2022.  Applying Zinc Nutrient Reference Values as Proposed by Different Authorities Results in Large Differences in the Estimated Prevalence of Inadequate Zinc Intake by Young Children and Women and in Cameroon. Nutrients 2022, 14(4), 883; https://doi.org/10.3390/nu14040883.](https://doi.org/10.3390/nu14040883)
 
-[Vosti, S. A., Adams, K. P., Michuda, A., Ortiz-Becerra, K., Luo, H., Haile, D., Chou, V. B., Clermont, A., Teta, I., Ndjebayi, A., Kagin, J., Guintang, J., & Engle-Stone, R. (2022). Impacts of micronutrient intervention programs on effective coverage and lives saved: Modeled evidence from Cameroon. Ann NY Acad Sci., 1–12. https://doi.org/10.1111/nyas.14937](https://doi.org/10.1111/nyas.14937)
+[Vosti, S. A., Adams, K. P., Michuda, A., Ortiz-Becerra, K., Luo, H., Haile, D., Chou, V. B., Clermont, A., Teta, I., Ndjebayi, A., Kagin, J., Guintang, J., & Engle-Stone, R. (2022). Impacts of micronutrient intervention programs on effective coverage and lives saved: Modeled evidence from Cameroon. Ann NY Acad Sci., 1519(1) 199-210. https://doi.org/10.1111/nyas.14937](https://doi.org/10.1111/nyas.14937)
 
 [Knight, Frances, M. W. Bourassa, E. Ferguson, H. Walls, S. dePee, S. Vosti, H. Martinez, C. Levin, M. Woldt, K. Sethurman, G. Bergeron. 2022. Nutrition modeling tools: a qualitative study of influence on policy decision making and determining factors.  Ann. N. Y. Acad. Sci., 1513 (2022) 170-191](https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.14778)
 
