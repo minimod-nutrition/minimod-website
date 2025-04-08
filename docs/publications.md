@@ -15,6 +15,8 @@ hide:
 
 ## MINIMOD Publications
 
+[Colina, A. R., S. A. Vosti, M. Jarvis, R. Engle-Stone, A. Michuda, et al. 2025. Cost effectiveness of fortified bouillon in addressing Burkinabe children’s vitamin A inadequacy: An economic optimization model. Ann NY Acad Sci., 1544(1), 143-158. https://doi.org/10.1111/nyas.15290](publications/Colina_et_al_Cost_effectiveness_of_fortified_bouillon_NYAS_2025.pdf)
+
 [Travis J. Lybbert, Stella Nordhagen, Stephen A. Vosti, Lynnette M. Neufeld. 2024. Improving nutrition through blended finance and impact investing in small and medium enterprises in sub‐saharan Africa. Applied Economics Perspectives and Policies, 2024](https://doi.org/10.1002/aepp.13418).
 
 [Adams, K. P., M. Jarvis, S. A. Vosti, M. S. Manger, A. Tarini, J. W. Somé, H. Somda and C. M. McDonald.  2023.  Estimating the cost and cost‐effectiveness of adding zinc to, and improving the performance of, Burkina Faso's mandatory wheat flour fortification programme.  Maternal & Child Nutrition, 2023, http://doi.org/10.1111/mcn.13515](http://doi.org/10.1111/mcn.13515)
