@@ -142,7 +142,7 @@ termcolor==3.0.1
     # via mkdocs-macros-plugin
 tzdata==2025.2
     # via pandas
-urllib3==2.3.0
+urllib3==2.4.0
     # via
     #   requests
     #   responses
