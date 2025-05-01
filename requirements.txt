@@ -10,7 +10,7 @@ babel==2.17.0
     #   mkdocs-material
 backrefs==5.8
     # via mkdocs-material
-certifi==2025.1.31
+certifi==2025.4.26
     # via requests
 charset-normalizer==3.4.1
     # via requests
@@ -96,7 +96,7 @@ pybtex==0.24.0
     # via mkdocs-bibtex
 pygments==2.19.1
     # via mkdocs-material
-pymdown-extensions==10.14.3
+pymdown-extensions==10.15
     # via mkdocs-material
 pypandoc==1.15
     # via mkdocs-bibtex
@@ -138,7 +138,7 @@ super-collections==0.5.3
     # via mkdocs-macros-plugin
 tabulate==0.9.0
     # via mkdocs-table-reader-plugin
-termcolor==3.0.1
+termcolor==3.1.0
     # via mkdocs-macros-plugin
 tzdata==2025.2
     # via pandas
@@ -146,7 +146,7 @@ urllib3==2.4.0
     # via
     #   requests
     #   responses
-validators==0.34.0
+validators==0.35.0
     # via mkdocs-bibtex
 watchdog==6.0.0
     # via mkdocs
