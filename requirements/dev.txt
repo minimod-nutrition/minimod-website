@@ -25,7 +25,7 @@ cffi==1.17.1
     #   pynacl
 classify-imports==4.2.0
     # via reorder-python-imports
-cryptography==44.0.2
+cryptography==44.0.3
     # via paramiko
 decorator==5.2.1
     # via fabric
@@ -33,7 +33,7 @@ deprecated==1.2.18
     # via fabric
 dill==0.4.0
     # via pylint
-docstring-to-markdown==0.16
+docstring-to-markdown==0.17
     # via jedi-language-server
 exceptiongroup==1.2.2
     # via cattrs
@@ -99,7 +99,7 @@ pygments==2.19.1
     # via rich
 pyjslint==0.3.4
     # via -r requirements/dev.in
-pylint==3.3.6
+pylint==3.3.7
     # via -r requirements/dev.in
 pynacl==1.5.0
     # via paramiko
@@ -111,7 +111,7 @@ reorder-python-imports==3.14.0
     # via -r requirements/dev.in
 rich==14.0.0
     # via bandit
-snowballstemmer==2.2.0
+snowballstemmer==3.0.0.1
     # via pydocstyle
 stevedore==5.4.1
     # via bandit
