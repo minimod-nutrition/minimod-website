@@ -12,7 +12,7 @@ backrefs==5.8
     # via mkdocs-material
 certifi==2025.4.26
     # via requests
-charset-normalizer==3.4.1
+charset-normalizer==3.4.2
     # via requests
 click==8.1.8
     # via mkdocs
@@ -90,7 +90,7 @@ pathspec==0.12.1
     # via
     #   mkdocs
     #   mkdocs-macros-plugin
-platformdirs==4.3.7
+platformdirs==4.3.8
     # via mkdocs-get-deps
 pybtex==0.24.0
     # via mkdocs-bibtex
