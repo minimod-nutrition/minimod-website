@@ -14,7 +14,7 @@ certifi==2025.4.26
     # via requests
 charset-normalizer==3.4.2
     # via requests
-click==8.1.8
+click==8.2.1
     # via mkdocs
 colorama==0.4.6
     # via mkdocs-material
@@ -68,13 +68,13 @@ mkdocs-git-revision-date-localized-plugin==1.4.5
     # via -r requirements.in
 mkdocs-macros-plugin==1.3.7
     # via -r requirements.in
-mkdocs-material==9.6.12
+mkdocs-material==9.6.14
     # via -r requirements.in
 mkdocs-material-extensions==1.3.1
     # via mkdocs-material
 mkdocs-table-reader-plugin==3.1.0
     # via -r requirements.in
-numpy==2.2.5
+numpy==2.2.6
     # via pandas
 openpyxl==3.1.5
     # via -r requirements.in
@@ -119,7 +119,7 @@ pyyaml==6.0.2
     #   pymdown-extensions
     #   pyyaml-env-tag
     #   responses
-pyyaml-env-tag==0.1
+pyyaml-env-tag==1.1
     # via mkdocs
 requests==2.32.3
     # via
