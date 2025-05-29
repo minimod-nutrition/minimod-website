@@ -25,7 +25,7 @@ cffi==1.17.1
     #   pynacl
 classify-imports==4.2.0
     # via reorder-python-imports
-cryptography==45.0.2
+cryptography==45.0.3
     # via paramiko
 decorator==5.2.1
     # via fabric
@@ -69,7 +69,7 @@ mdurl==0.1.2
     # via markdown-it-py
 msgpack==1.1.0
     # via pynvim
-mypy==1.15.0
+mypy==1.16.0
     # via -r requirements/dev.in
 mypy-extensions==1.1.0
     # via mypy
@@ -79,6 +79,8 @@ paramiko==3.5.1
     # via fabric
 parso==0.8.4
     # via jedi
+pathspec==0.12.1
+    # via mypy
 pbr==6.1.1
     # via stevedore
 platformdirs==4.3.8
@@ -107,7 +109,7 @@ pynvim==0.5.2
     # via neovim
 pyyaml==6.0.2
     # via bandit
-reorder-python-imports==3.14.0
+reorder-python-imports==3.15.0
     # via -r requirements/dev.in
 rich==14.0.0
     # via bandit
@@ -134,7 +136,7 @@ typing-extensions==4.13.2
     #   rich
 wrapt==1.17.2
     # via deprecated
-zipp==3.21.0
+zipp==3.22.0
     # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
