@@ -84,7 +84,7 @@ packaging==25.0
     #   mkdocs-macros-plugin
 paginate==0.5.7
     # via mkdocs-material
-pandas==2.2.3
+pandas==2.3.0
     # via mkdocs-table-reader-plugin
 pathspec==0.12.1
     # via
