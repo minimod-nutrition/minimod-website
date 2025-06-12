@@ -121,7 +121,7 @@ pyyaml==6.0.2
     #   responses
 pyyaml-env-tag==1.1
     # via mkdocs
-requests==2.32.3
+requests==2.32.4
     # via
     #   mkdocs-bibtex
     #   mkdocs-material
