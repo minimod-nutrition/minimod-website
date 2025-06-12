@@ -25,7 +25,7 @@ cffi==1.17.1
     #   pynacl
 classify-imports==4.2.0
     # via reorder-python-imports
-cryptography==45.0.3
+cryptography==45.0.4
     # via paramiko
 decorator==5.2.1
     # via fabric
@@ -136,7 +136,7 @@ typing-extensions==4.14.0
     #   rich
 wrapt==1.17.2
     # via deprecated
-zipp==3.22.0
+zipp==3.23.0
     # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
