@@ -10,7 +10,7 @@ babel==2.17.0
     #   mkdocs-material
 backrefs==5.8
     # via mkdocs-material
-certifi==2025.4.26
+certifi==2025.6.15
     # via requests
 charset-normalizer==3.4.2
     # via requests
@@ -37,9 +37,9 @@ jinja2==3.1.6
     #   mkdocs
     #   mkdocs-macros-plugin
     #   mkdocs-material
-latexcodec==3.0.0
+latexcodec==3.0.1
     # via pybtex
-markdown==3.8
+markdown==3.8.2
     # via
     #   mkdocs
     #   mkdocs-material
@@ -142,7 +142,7 @@ termcolor==3.1.0
     # via mkdocs-macros-plugin
 tzdata==2025.2
     # via pandas
-urllib3==2.4.0
+urllib3==2.5.0
     # via
     #   requests
     #   responses
