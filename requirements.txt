@@ -8,7 +8,7 @@ babel==2.17.0
     # via
     #   mkdocs-git-revision-date-localized-plugin
     #   mkdocs-material
-backrefs==5.8
+backrefs==5.9
     # via mkdocs-material
 certifi==2025.6.15
     # via requests
@@ -60,7 +60,7 @@ mkdocs==1.6.1
     #   mkdocs-macros-plugin
     #   mkdocs-material
     #   mkdocs-table-reader-plugin
-mkdocs-bibtex==4.2.5
+mkdocs-bibtex==4.2.10
     # via -r requirements.in
 mkdocs-get-deps==0.2.0
     # via mkdocs
@@ -92,11 +92,11 @@ pathspec==0.12.1
     #   mkdocs-macros-plugin
 platformdirs==4.3.8
     # via mkdocs-get-deps
-pybtex==0.24.0
+pybtex==0.25.1
     # via mkdocs-bibtex
-pygments==2.19.1
+pygments==2.19.2
     # via mkdocs-material
-pymdown-extensions==10.15
+pymdown-extensions==10.16
     # via mkdocs-material
 pypandoc==1.15
     # via mkdocs-bibtex
@@ -129,9 +129,7 @@ requests==2.32.4
 responses==0.25.7
     # via mkdocs-bibtex
 six==1.17.0
-    # via
-    #   pybtex
-    #   python-dateutil
+    # via python-dateutil
 smmap==5.0.2
     # via gitdb
 super-collections==0.5.3
