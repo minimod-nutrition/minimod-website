@@ -10,7 +10,7 @@ attrs==25.3.0
     # via
     #   cattrs
     #   lsprotocol
-bandit==1.8.5
+bandit==1.8.6
     # via -r requirements/dev.in
 bcrypt==4.3.0
     # via paramiko
@@ -25,7 +25,7 @@ cffi==1.17.1
     #   pynacl
 classify-imports==4.2.0
     # via reorder-python-imports
-cryptography==45.0.4
+cryptography==45.0.5
     # via paramiko
 decorator==5.2.1
     # via fabric
@@ -125,7 +125,7 @@ tomlkit==0.13.3
     # via pylint
 types-pytz==2025.2.0.20250516
     # via -r requirements/dev.in
-typing-extensions==4.14.0
+typing-extensions==4.14.1
     # via
     #   astroid
     #   cattrs
