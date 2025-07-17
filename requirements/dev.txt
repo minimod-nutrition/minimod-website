@@ -4,7 +4,7 @@
 #
 #    pip-compile requirements/dev.in
 #
-astroid==3.3.10
+astroid==3.3.11
     # via pylint
 attrs==25.3.0
     # via
@@ -69,7 +69,7 @@ mdurl==0.1.2
     # via markdown-it-py
 msgpack==1.1.1
     # via pynvim
-mypy==1.16.1
+mypy==1.17.0
     # via -r requirements/dev.in
 mypy-extensions==1.1.0
     # via mypy
