@@ -83,7 +83,7 @@ parso==0.8.4
     # via jedi
 pathspec==0.12.1
     # via mypy
-pbr==7.0.0
+pbr==7.0.1
     # via stevedore
 platformdirs==4.3.8
     # via pylint
