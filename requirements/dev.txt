@@ -79,12 +79,10 @@ neovim==0.3.1
     # via -r requirements/dev.in
 paramiko==4.0.0
     # via fabric
-parso==0.8.4
+parso==0.8.5
     # via jedi
 pathspec==0.12.1
     # via mypy
-pbr==7.0.1
-    # via stevedore
 platformdirs==4.4.0
     # via pylint
 pycodestyle==2.14.0
@@ -117,7 +115,7 @@ rich==14.1.0
     # via bandit
 snowballstemmer==3.0.1
     # via pydocstyle
-stevedore==5.4.1
+stevedore==5.5.0
     # via bandit
 tomli==2.2.1
     # via
@@ -127,7 +125,7 @@ tomlkit==0.13.3
     # via pylint
 types-pytz==2025.2.0.20250809
     # via -r requirements/dev.in
-typing-extensions==4.14.1
+typing-extensions==4.15.0
     # via
     #   astroid
     #   cattrs
@@ -139,6 +137,3 @@ wrapt==1.17.3
     # via deprecated
 zipp==3.23.0
     # via importlib-metadata
-
-# The following packages are considered to be unsafe in a requirements file:
-# setuptools
