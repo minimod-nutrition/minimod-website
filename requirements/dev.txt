@@ -14,18 +14,18 @@ bandit==1.8.6
     # via -r requirements/dev.in
 bcrypt==4.3.0
     # via paramiko
-cattrs==25.1.1
+cattrs==25.2.0
     # via
     #   jedi-language-server
     #   lsprotocol
     #   pygls
-cffi==1.17.1
+cffi==2.0.0
     # via
     #   cryptography
     #   pynacl
 classify-imports==4.2.0
     # via reorder-python-imports
-cryptography==45.0.6
+cryptography==46.0.1
     # via paramiko
 decorator==5.2.1
     # via fabric
@@ -71,7 +71,7 @@ mdurl==0.1.2
     # via markdown-it-py
 msgpack==1.1.1
     # via pynvim
-mypy==1.17.1
+mypy==1.18.1
     # via -r requirements/dev.in
 mypy-extensions==1.1.0
     # via mypy
@@ -89,7 +89,7 @@ pycodestyle==2.14.0
     # via
     #   -r requirements/dev.in
     #   flake8
-pycparser==2.22
+pycparser==2.23
     # via cffi
 pydocstyle==6.3.0
     # via -r requirements/dev.in
@@ -103,9 +103,9 @@ pyjslint==0.3.4
     # via -r requirements/dev.in
 pylint==3.3.8
     # via -r requirements/dev.in
-pynacl==1.5.0
+pynacl==1.6.0
     # via paramiko
-pynvim==0.5.2
+pynvim==0.6.0
     # via neovim
 pyyaml==6.0.2
     # via bandit
@@ -129,6 +129,7 @@ typing-extensions==4.15.0
     # via
     #   astroid
     #   cattrs
+    #   cryptography
     #   docstring-to-markdown
     #   exceptiongroup
     #   mypy
