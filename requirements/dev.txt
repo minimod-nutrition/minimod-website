@@ -107,7 +107,7 @@ pynacl==1.6.0
     # via paramiko
 pynvim==0.6.0
     # via neovim
-pyyaml==6.0.2
+pyyaml==6.0.3
     # via bandit
 reorder-python-imports==3.15.0
     # via -r requirements/dev.in
