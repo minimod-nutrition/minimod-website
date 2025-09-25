@@ -12,7 +12,7 @@ attrs==25.3.0
     #   lsprotocol
 bandit==1.8.6
     # via -r requirements/dev.in
-bcrypt==4.3.0
+bcrypt==5.0.0
     # via paramiko
 cattrs==25.2.0
     # via
@@ -71,7 +71,7 @@ mdurl==0.1.2
     # via markdown-it-py
 msgpack==1.1.1
     # via pynvim
-mypy==1.18.1
+mypy==1.18.2
     # via -r requirements/dev.in
 mypy-extensions==1.1.0
     # via mypy
