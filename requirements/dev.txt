@@ -4,7 +4,7 @@
 #
 #    pip-compile --cert=None --client-cert=None --index-url=None --pip-args=None requirements/dev.in
 #
-astroid==3.3.11
+astroid==4.0.1
     # via pylint
 attrs==25.4.0
     # via
@@ -25,7 +25,7 @@ cffi==2.0.0
     #   pynacl
 classify-imports==4.2.0
     # via reorder-python-imports
-cryptography==46.0.2
+cryptography==46.0.3
     # via paramiko
 decorator==5.2.1
     # via fabric
@@ -45,11 +45,11 @@ greenlet==3.2.4
     # via pynvim
 importlib-metadata==8.7.0
     # via docstring-to-markdown
-invoke==2.2.0
+invoke==2.2.1
     # via
     #   fabric
     #   paramiko
-isort==6.1.0
+isort==7.0.0
     # via pylint
 jedi==0.19.2
     # via
@@ -101,7 +101,7 @@ pygments==2.19.2
     # via rich
 pyjslint==0.3.4
     # via -r requirements/dev.in
-pylint==3.3.9
+pylint==4.0.1
     # via -r requirements/dev.in
 pynacl==1.6.0
     # via paramiko
@@ -109,7 +109,7 @@ pynvim==0.6.0
     # via neovim
 pyyaml==6.0.3
     # via bandit
-reorder-python-imports==3.15.0
+reorder-python-imports==3.16.0
     # via -r requirements/dev.in
 rich==14.2.0
     # via bandit
