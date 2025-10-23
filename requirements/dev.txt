@@ -101,7 +101,7 @@ pygments==2.19.2
     # via rich
 pyjslint==0.3.4
     # via -r requirements/dev.in
-pylint==4.0.1
+pylint==4.0.2
     # via -r requirements/dev.in
 pynacl==1.6.0
     # via paramiko
