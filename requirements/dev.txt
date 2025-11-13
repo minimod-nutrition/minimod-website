@@ -4,7 +4,7 @@
 #
 #    pip-compile requirements/dev.in
 #
-astroid==4.0.1
+astroid==4.0.2
     # via pylint
 attrs==25.4.0
     # via
@@ -102,9 +102,9 @@ pygments==2.19.2
     # via rich
 pyjslint==0.3.4
     # via -r requirements/dev.in
-pylint==4.0.2
+pylint==4.0.3
     # via -r requirements/dev.in
-pynacl==1.6.0
+pynacl==1.6.1
     # via paramiko
 pynvim==0.6.0
     # via neovim
@@ -124,7 +124,7 @@ tomli==2.3.0
     #   pylint
 tomlkit==0.13.3
     # via pylint
-types-pytz==2025.2.0.20250809
+types-pytz==2025.2.0.20251108
     # via -r requirements/dev.in
 typing-extensions==4.15.0
     # via
@@ -135,7 +135,7 @@ typing-extensions==4.15.0
     #   exceptiongroup
     #   mypy
     #   pynvim
-wrapt==2.0.0
+wrapt==2.0.1
     # via deprecated
 zipp==3.23.0
     # via importlib-metadata
