@@ -11,7 +11,7 @@ attrs==25.4.0
     #   cattrs
     #   lsprotocol
     #   pygls
-bandit==1.9.1
+bandit==1.9.2
     # via -r requirements/dev.in
 bcrypt==5.0.0
     # via paramiko
@@ -36,13 +36,13 @@ dill==0.4.0
     # via pylint
 docstring-to-markdown==0.17
     # via jedi-language-server
-exceptiongroup==1.3.0
+exceptiongroup==1.3.1
     # via cattrs
 fabric==3.2.2
     # via -r requirements/dev.in
 flake8==7.3.0
     # via -r requirements/dev.in
-greenlet==3.2.4
+greenlet==3.3.0
     # via pynvim
 importlib-metadata==8.7.0
     # via docstring-to-markdown
@@ -58,6 +58,8 @@ jedi==0.19.2
     #   jedi-language-server
 jedi-language-server==0.46.0
     # via -r requirements/dev.in
+librt==0.6.3
+    # via mypy
 lsprotocol==2025.0.0
     # via
     #   jedi-language-server
@@ -72,7 +74,7 @@ mdurl==0.1.2
     # via markdown-it-py
 msgpack==1.1.2
     # via pynvim
-mypy==1.18.2
+mypy==1.19.0
     # via -r requirements/dev.in
 mypy-extensions==1.1.0
     # via mypy
@@ -102,7 +104,7 @@ pygments==2.19.2
     # via rich
 pyjslint==0.3.4
     # via -r requirements/dev.in
-pylint==4.0.3
+pylint==4.0.4
     # via -r requirements/dev.in
 pynacl==1.6.1
     # via paramiko
