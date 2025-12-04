@@ -96,7 +96,7 @@ pybtex==0.25.1
     # via mkdocs-bibtex
 pygments==2.19.2
     # via mkdocs-material
-pymdown-extensions==10.17.1
+pymdown-extensions==10.17.2
     # via mkdocs-material
 pypandoc==1.16.2
     # via mkdocs-bibtex
