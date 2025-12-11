@@ -90,13 +90,13 @@ pathspec==0.12.1
     # via
     #   mkdocs
     #   mkdocs-macros-plugin
-platformdirs==4.5.0
+platformdirs==4.5.1
     # via mkdocs-get-deps
 pybtex==0.25.1
     # via mkdocs-bibtex
 pygments==2.19.2
     # via mkdocs-material
-pymdown-extensions==10.17.2
+pymdown-extensions==10.19
     # via mkdocs-material
 pypandoc==1.16.2
     # via mkdocs-bibtex
@@ -139,7 +139,7 @@ termcolor==3.2.0
     # via mkdocs-macros-plugin
 tzdata==2025.2
     # via pandas
-urllib3==2.5.0
+urllib3==2.6.2
     # via
     #   requests
     #   responses
