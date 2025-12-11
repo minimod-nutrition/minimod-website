@@ -58,7 +58,7 @@ jedi==0.19.2
     #   jedi-language-server
 jedi-language-server==0.46.0
     # via -r requirements/dev.in
-librt==0.6.3
+librt==0.7.3
     # via mypy
 lsprotocol==2025.0.0
     # via
