@@ -58,7 +58,7 @@ jedi==0.19.2
     #   jedi-language-server
 jedi-language-server==0.46.0
     # via -r requirements/dev.in
-librt==0.7.3
+librt==0.7.4
     # via mypy
 lsprotocol==2025.0.0
     # via
@@ -74,7 +74,7 @@ mdurl==0.1.2
     # via markdown-it-py
 msgpack==1.1.2
     # via pynvim
-mypy==1.19.0
+mypy==1.19.1
     # via -r requirements/dev.in
 mypy-extensions==1.1.0
     # via mypy
