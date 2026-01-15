@@ -5,6 +5,7 @@ jedi
 jedi-language-server
 mypy
 neovim
+pathspec==1.0.3  # requirements.txt
 pycodestyle
 pydocstyle
 pyjslint

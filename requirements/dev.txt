@@ -84,8 +84,10 @@ paramiko==4.0.0
     # via fabric
 parso==0.8.5
     # via jedi
-pathspec==0.12.1
-    # via mypy
+pathspec==1.0.3
+    # via
+    #   -r requirements/dev.in
+    #   mypy
 platformdirs==4.5.1
     # via pylint
 pycodestyle==2.14.0
