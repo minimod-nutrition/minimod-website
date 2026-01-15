@@ -4,7 +4,7 @@
 #
 #    pip-compile requirements/dev.in
 #
-astroid==4.0.2
+astroid==4.0.3
     # via pylint
 attrs==25.4.0
     # via
@@ -44,7 +44,7 @@ flake8==7.3.0
     # via -r requirements/dev.in
 greenlet==3.3.0
     # via pynvim
-importlib-metadata==8.7.0
+importlib-metadata==8.7.1
     # via docstring-to-markdown
 invoke==2.2.1
     # via
@@ -58,7 +58,7 @@ jedi==0.19.2
     #   jedi-language-server
 jedi-language-server==0.46.0
     # via -r requirements/dev.in
-librt==0.7.4
+librt==0.7.8
     # via mypy
 lsprotocol==2025.0.0
     # via
@@ -106,7 +106,7 @@ pyjslint==0.3.4
     # via -r requirements/dev.in
 pylint==4.0.4
     # via -r requirements/dev.in
-pynacl==1.6.1
+pynacl==1.6.2
     # via paramiko
 pynvim==0.6.0
     # via neovim
@@ -120,11 +120,11 @@ snowballstemmer==3.0.1
     # via pydocstyle
 stevedore==5.6.0
     # via bandit
-tomli==2.3.0
+tomli==2.4.0
     # via
     #   mypy
     #   pylint
-tomlkit==0.13.3
+tomlkit==0.14.0
     # via pylint
 types-pytz==2025.2.0.20251108
     # via -r requirements/dev.in
