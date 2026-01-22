@@ -39,7 +39,7 @@ jinja2==3.1.6
     #   mkdocs-material
 latexcodec==3.0.1
     # via pybtex
-markdown==3.10
+markdown==3.10.1
     # via
     #   mkdocs
     #   mkdocs-material
@@ -78,7 +78,7 @@ numpy==2.2.6
     # via pandas
 openpyxl==3.1.5
     # via -r requirements.in
-packaging==25.0
+packaging==26.0
     # via
     #   mkdocs
     #   mkdocs-macros-plugin
