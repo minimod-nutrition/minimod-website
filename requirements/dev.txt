@@ -84,7 +84,7 @@ paramiko==4.0.0
     # via fabric
 parso==0.8.5
     # via jedi
-pathspec==1.0.3
+pathspec==1.0.4
     # via mypy
 platformdirs==4.5.1
     # via pylint
