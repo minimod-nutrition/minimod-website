@@ -86,7 +86,7 @@ parso==0.8.5
     # via jedi
 pathspec==1.0.4
     # via mypy
-platformdirs==4.5.1
+platformdirs==4.7.0
     # via pylint
 pycodestyle==2.14.0
     # via
