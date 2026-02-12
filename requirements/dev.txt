@@ -4,7 +4,7 @@
 #
 #    pip-compile requirements/dev.in
 #
-astroid==4.0.3
+astroid==4.0.4
     # via pylint
 attrs==25.4.0
     # via
@@ -26,7 +26,7 @@ cffi==2.0.0
     #   pynacl
 classify-imports==4.2.0
     # via reorder-python-imports
-cryptography==46.0.4
+cryptography==46.0.5
     # via paramiko
 decorator==5.2.1
     # via fabric
@@ -58,7 +58,7 @@ jedi==0.19.2
     #   jedi-language-server
 jedi-language-server==0.46.0
     # via -r requirements/dev.in
-librt==0.7.8
+librt==0.8.0
     # via mypy
 lsprotocol==2025.0.0
     # via
@@ -82,7 +82,7 @@ neovim==0.3.1
     # via -r requirements/dev.in
 paramiko==4.0.0
     # via fabric
-parso==0.8.5
+parso==0.8.6
     # via jedi
 pathspec==1.0.4
     # via mypy
