@@ -8,9 +8,9 @@ babel==2.18.0
     # via
     #   mkdocs-git-revision-date-localized-plugin
     #   mkdocs-material
-backrefs==6.1
+backrefs==6.2
     # via mkdocs-material
-certifi==2026.1.4
+certifi==2026.2.25
     # via requests
 charset-normalizer==3.4.4
     # via requests
@@ -68,7 +68,7 @@ mkdocs-git-revision-date-localized-plugin==1.5.1
     # via -r requirements.in
 mkdocs-macros-plugin==1.5.0
     # via -r requirements.in
-mkdocs-material==9.7.1
+mkdocs-material==9.7.4
     # via -r requirements.in
 mkdocs-material-extensions==1.3.1
     # via mkdocs-material
@@ -90,13 +90,13 @@ pathspec==1.0.4
     # via
     #   mkdocs
     #   mkdocs-macros-plugin
-platformdirs==4.7.0
+platformdirs==4.9.2
     # via mkdocs-get-deps
 pybtex==0.25.1
     # via mkdocs-bibtex
 pygments==2.19.2
     # via mkdocs-material
-pymdown-extensions==10.20.1
+pymdown-extensions==10.21
     # via mkdocs-material
 pypandoc==1.16.2
     # via mkdocs-bibtex
@@ -105,7 +105,7 @@ python-dateutil==2.9.0.post0
     #   ghp-import
     #   mkdocs-macros-plugin
     #   pandas
-pytz==2025.2
+pytz==2026.1.post1
     # via pandas
 pyyaml==6.0.3
     # via
@@ -125,7 +125,7 @@ requests==2.32.5
     #   mkdocs-macros-plugin
     #   mkdocs-material
     #   responses
-responses==0.25.8
+responses==0.26.0
     # via mkdocs-bibtex
 six==1.17.0
     # via python-dateutil
@@ -133,7 +133,7 @@ smmap==5.0.2
     # via gitdb
 super-collections==0.6.2
     # via mkdocs-macros-plugin
-tabulate==0.9.0
+tabulate==0.10.0
     # via mkdocs-table-reader-plugin
 termcolor==3.3.0
     # via mkdocs-macros-plugin
