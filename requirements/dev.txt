@@ -11,11 +11,11 @@ attrs==25.4.0
     #   cattrs
     #   lsprotocol
     #   pygls
-bandit==1.9.3
+bandit==1.9.4
     # via -r requirements/dev.in
 bcrypt==5.0.0
     # via paramiko
-cattrs==25.3.0
+cattrs==26.1.0
     # via
     #   jedi-language-server
     #   lsprotocol
@@ -42,7 +42,7 @@ fabric==3.2.2
     # via -r requirements/dev.in
 flake8==7.3.0
     # via -r requirements/dev.in
-greenlet==3.3.1
+greenlet==3.3.2
     # via pynvim
 importlib-metadata==8.7.1
     # via docstring-to-markdown
@@ -50,7 +50,7 @@ invoke==2.2.1
     # via
     #   fabric
     #   paramiko
-isort==7.0.0
+isort==8.0.1
     # via pylint
 jedi==0.19.2
     # via
@@ -58,7 +58,7 @@ jedi==0.19.2
     #   jedi-language-server
 jedi-language-server==0.46.0
     # via -r requirements/dev.in
-librt==0.8.0
+librt==0.8.1
     # via mypy
 lsprotocol==2025.0.0
     # via
@@ -104,7 +104,7 @@ pygments==2.19.2
     # via rich
 pyjslint==0.3.4
     # via -r requirements/dev.in
-pylint==4.0.4
+pylint==4.0.5
     # via -r requirements/dev.in
 pynacl==1.6.2
     # via paramiko
@@ -114,11 +114,11 @@ pyyaml==6.0.3
     # via bandit
 reorder-python-imports==3.16.0
     # via -r requirements/dev.in
-rich==14.3.2
+rich==14.3.3
     # via bandit
 snowballstemmer==3.0.1
     # via pydocstyle
-stevedore==5.6.0
+stevedore==5.7.0
     # via bandit
 tomli==2.4.0
     # via
@@ -126,7 +126,7 @@ tomli==2.4.0
     #   pylint
 tomlkit==0.14.0
     # via pylint
-types-pytz==2025.2.0.20251108
+types-pytz==2026.1.1.20260304
     # via -r requirements/dev.in
 typing-extensions==4.15.0
     # via
