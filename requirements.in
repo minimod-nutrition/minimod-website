@@ -1,4 +1,4 @@
-mkdocs
+mkdocs<2.0  # MkDocs 2.0 changes: https://squidfunk.github.io/mkdocs-material/blog/2026/02/18/mkdocs-2.0/
 mkdocs-bibtex
 mkdocs-git-revision-date-localized-plugin
 mkdocs-macros-plugin
