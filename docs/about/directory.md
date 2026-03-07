@@ -1,33 +1,20 @@
-
-|                                             |                       |
-|---------------------------------------------|-----------------------|
-
-
-
 ## Project Manager
-|![](../pictures/vosti_steve.jpg){align=left} | **Dr. Stephen Vosti** <br> Adjunct Professor Emeritus, Department of Agricultural and Resource Economics, UC Davis <br>   Co-PI, Economics, MINIMOD Project, Institute for Global Nutrition, UC Davis <br> [:material-email:](mailto:savosti@ucdavis.edu) [:material-web:](https://are.ucdavis.edu/people/emeriti/stephen-vosti/) [:material-book:](https://scholar.google.com/citations?user=5tviTWQAAAAJ&hl=en)|
-| ![](../pictures/engle-stone_reina.jpg){align=left} | **Dr. Reina Engle-Stone** <br> Assistant Professor, Department of Nutrition, UC Davis <br> Co-PI, Nutrition, MINIMOD Project, Institute for Global Nutrition, UC Davis <br> [:material-email:](mailto:renglestone@ucdavis.edu) [:material-web:](http://nutrition.ucdavis.edu/people/faculty/englestone_reina.html) [:material-book:](https://scholar.google.com/citations?user=3IdJLu8AAAAJ&amp;hl=en) |
-
-
 |                                             |                       |
 |---------------------------------------------|-----------------------|
-
-
+| ![](../pictures/vosti_steve.jpg){align=left} | **Dr. Stephen Vosti** <br> Adjunct Professor Emeritus, Department of Agricultural and Resource Economics, UC Davis <br>   Co-PI, Economics, MINIMOD Project, Institute for Global Nutrition, UC Davis <br> [:material-email:](mailto:savosti@ucdavis.edu){: aria-label="Email Dr. Stephen Vosti"} [:material-web:](https://are.ucdavis.edu/people/emeriti/stephen-vosti/){: aria-label="Visit Dr. Stephen Vosti's website"} [:material-book:](https://scholar.google.com/citations?user=5tviTWQAAAAJ&hl=en){: aria-label="Visit Dr. Stephen Vosti's Google Scholar page"} |
+| ![](../pictures/engle-stone_reina.jpg){align=left} | **Dr. Reina Engle-Stone** <br> Assistant Professor, Department of Nutrition, UC Davis <br> Co-PI, Nutrition, MINIMOD Project, Institute for Global Nutrition, UC Davis <br> [:material-email:](mailto:renglestone@ucdavis.edu){: aria-label="Email Dr. Reina Engle-Stone"} [:material-web:](http://nutrition.ucdavis.edu/people/faculty/englestone_reina.html){: aria-label="Visit Dr. Reina Engle-Stones's website"} [:material-book:](https://scholar.google.com/citations?user=3IdJLu8AAAAJ&amp;hl=en){: aria-label="Visit Dr. Reina Engle-Stone's Google Scholar page"} |
 
 ## Collaborating Scientists
-
-| ![](../pictures/adams_katie.jpg) | **Dr. Katherine Adams** <br> Associate Project Scientist, Department of Nutrition, UC Davis <br> Cost analysis and simplified tool development, MINIMOD Project, Institute for Global Nutrition, UC Davis <br> [:material-email:](mailto:kpittenger@ucdavis.edu) [:material-book:](https://scholar.google.com/citations?user=_j3Yh-YAAAAJ&hl=en) |
-| ![](../pictures/Emily_Becher.jpeg) | **Emily Becher** <br> PhD Student, Department of Nutrition, UC Davis <br> Institute for Global Nutrition, UC Davis <br> [:material-web:](https://www.linkedin.com/in/emily-becher-a50542115) |
-|![](../pictures/brown_kenneth.jpg) | **Ken Brown** <br> Distinguished Professor Emeritus, Department of Nutrition, UC Davis <br>  Nutrition policy engagement, MINIMOD Project, Institute for Global Nutrition, UC Davis <br> [:material-email:](mailto:Ken.Brown@gatesfoundation.org)
-| ![](../pictures/armando_headshot.jpg) | **Armando Rangel Colina** <br> PhD Student, Agricultural and Resource Economics, UC Davis <br> [:material-email:](mailto:arangel@ucdavis.edu)[:material-web:](https://www.linkedin.com/in/armando-rangel-colina-0a3595125) |
-![](../pictures/french_caitlin.jpg) | **Caitlin French** <br> Graduate Student Researcher, Department of Nutrition, UC Davis <br> Nutrition benefits estimation, MINIMOD Project, Institute for Global Nutrition, UC Davis <br> [:material-email:](mailto:cdfrench@ucdavis.edu) |
-|![](../pictures/woldegebreal_demewoz.jpg) | **Demewoz Haile Woldegebreal** <br> Research Fellow, Institute for Health Metrics and Evaluation, University of Washington, Seattle <br>  Nutrition benefits estimation, MINIMOD Project, Institute for Global Nutrition, UC Davis <br> [:material-email:](mailto:dewolde@ucdavis.edu) |
-
-|![](../pictures/michael_jarvis.jpeg) | **Michael Jarvis** <br> Research Consultant, UC Davis <br> MINIMOD Project <br> [:material-email:](mailto:mjarvis@ucdavis.edu) [:material-web:](https://www.linkedin.com/in/jarvis-michael/) |
-
-
-|![](../pictures/luo_haqui.jpg) | **Dr. Hanqi Luo** <br> Senior Biostatistician, BRINDA team, Emory University <br> Department of Global Health, Rollins School of Public Health <br> [:material-email:](mailto:luohanqi@gmail.com) [:material-book:](https://scholar.google.com/citations?user=cVBKMiwAAAAJ&amp;hl=en) |
-| ![](../pictures/aleksandr_michuda.jpeg) | **Aleksandr Michuda** <br> Center for Data Science for Enterprise and Society, Cornell University <br> [:material-email:](mailto:amichuda@ucdavis.edu)[:material-web:](https://amichuda.github.io/) |
-
-| ![](../pictures/tarini_ann.jpg) | **Ann Tarini** <br> Public Health Nutrition Consultant <br>  Policy engagement specialist, MINIMOD Project <br> [:material-email:](mailto:tariniann@gmail.com) |
-| ![](../pictures/Lauren_Thompson.jpeg) | **Lauren Thompson** <br> PhD Student, Department of Nutrition, UC Davis <br> Institute for Global Nutrition, UC Davis <br> [:material-web:](https://www.linkedin.com/in/lauren-thompson330) |
+|                                             |                       |
+|---------------------------------------------|-----------------------|
+| ![](../pictures/adams_katie.jpg) | **Dr. Katherine Adams** <br> Associate Project Scientist, Department of Nutrition, UC Davis <br> Cost analysis and simplified tool development, MINIMOD Project, Institute for Global Nutrition, UC Davis <br> [:material-email:](mailto:kpittenger@ucdavis.edu){: aria-label="Email Dr. Katherine Adams"} [:material-book:](https://scholar.google.com/citations?user=_j3Yh-YAAAAJ&hl=en){: aria-label="Visit Dr. Katherine Adams' Google Scholar page"} |
+| ![](../pictures/Emily_Becher.jpeg) | **Emily Becher** <br> PhD Student, Department of Nutrition, UC Davis <br> Institute for Global Nutrition, UC Davis <br> [:material-web:](https://www.linkedin.com/in/emily-becher-a50542115){: aria-label="Visit Emily Becher's website"} |
+| ![](../pictures/brown_kenneth.jpg) | **Ken Brown** <br> Distinguished Professor Emeritus, Department of Nutrition, UC Davis <br>  Nutrition policy engagement, MINIMOD Project, Institute for Global Nutrition, UC Davis <br> [:material-email:](mailto:Ken.Brown@gatesfoundation.org){: aria-label="Email Ken Brown"}
+| ![](../pictures/armando_headshot.jpg) | **Armando Rangel Colina** <br> PhD Student, Agricultural and Resource Economics, UC Davis <br> [:material-email:](mailto:arangel@ucdavis.edu){: aria-label="Email Armando Rangel Colina"} [:material-web:](https://www.linkedin.com/in/armando-rangel-colina-0a3595125){: aria-label="Visit Armando Rangel Colina's website"} |
+![](../pictures/french_caitlin.jpg) | **Caitlin French** <br> Graduate Student Researcher, Department of Nutrition, UC Davis <br> Nutrition benefits estimation, MINIMOD Project, Institute for Global Nutrition, UC Davis <br> [:material-email:](mailto:cdfrench@ucdavis.edu){: aria-label="Email Caitlin French"} |
+| ![](../pictures/woldegebreal_demewoz.jpg) | **Demewoz Haile Woldegebreal** <br> Research Fellow, Institute for Health Metrics and Evaluation, University of Washington, Seattle <br>  Nutrition benefits estimation, MINIMOD Project, Institute for Global Nutrition, UC Davis <br> [:material-email:](mailto:dewolde@ucdavis.edu){: aria-label="Email Demewoz Haile Woldegebreal"} |
+| ![](../pictures/michael_jarvis.jpeg) | **Michael Jarvis** <br> Research Consultant, UC Davis <br> MINIMOD Project <br> [:material-email:](mailto:mjarvis@ucdavis.edu){: aria-label="Email Michael Jarvis"} [:material-web:](https://www.linkedin.com/in/jarvis-michael/){: aria-label="Visit Michael Jarvis' website"} |
+| ![](../pictures/luo_haqui.jpg) | **Dr. Hanqi Luo** <br> Senior Biostatistician, BRINDA team, Emory University <br> Department of Global Health, Rollins School of Public Health <br> [:material-email:](mailto:luohanqi@gmail.com){: aria-label="Email Dr. Hanqi Luo"} [:material-book:](https://scholar.google.com/citations?user=cVBKMiwAAAAJ&amp;hl=en){: aria-label="Visit Dr. Hanqi Luo's Google Scholar page"} |
+| ![](../pictures/aleksandr_michuda.jpeg) | **Aleksandr Michuda** <br> Center for Data Science for Enterprise and Society, Cornell University <br> [:material-email:](mailto:amichuda@ucdavis.edu){: aria-label="Email Aleksandr Michuda"}[:material-web:](https://amichuda.github.io/){: aria-label="Visit Alexsandr Michuda's website"} |
+| ![](../pictures/tarini_ann.jpg) | **Ann Tarini** <br> Public Health Nutrition Consultant <br>  Policy engagement specialist, MINIMOD Project <br> [:material-email:](mailto:tariniann@gmail.com){: aria-label="Email Ann Tarini"} |
+| ![](../pictures/Lauren_Thompson.jpeg) | **Lauren Thompson** <br> PhD Student, Department of Nutrition, UC Davis <br> Institute for Global Nutrition, UC Davis <br> [:material-web:](https://www.linkedin.com/in/lauren-thompson330){: aria-label="Visit Lauren Thomspon's website"} |
