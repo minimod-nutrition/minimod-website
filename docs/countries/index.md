@@ -1,1 +1,1 @@
-<iframe width="768" height="576" src="https://maphub.net/embed/138381?legend=1&panel=1&panel_closed=1" frameborder="0"></iframe>
+<iframe title="Interactive World Map Showing Where We Work" width="768" height="576" src="https://maphub.net/embed/138381?legend=1&panel=1&panel_closed=1" frameborder="0"></iframe>
