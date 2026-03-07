@@ -1,3 +1,6 @@
+main a {
+  text-decoration: underline !important;
+}
 .center {
     display: block;
     margin-left: auto;
