@@ -6,7 +6,7 @@
 #
 astroid==4.0.4
     # via pylint
-attrs==25.4.0
+attrs==26.1.0
     # via
     #   cattrs
     #   lsprotocol
@@ -44,7 +44,7 @@ flake8==7.3.0
     # via -r requirements/dev.in
 greenlet==3.3.2
     # via pynvim
-importlib-metadata==8.7.1
+importlib-metadata==8.8.0
     # via docstring-to-markdown
 invoke==2.2.1
     # via
@@ -98,7 +98,7 @@ pydocstyle==6.3.0
     # via -r requirements/dev.in
 pyflakes==3.4.0
     # via flake8
-pygls==2.0.1
+pygls==2.1.0
     # via jedi-language-server
 pygments==2.19.2
     # via rich
