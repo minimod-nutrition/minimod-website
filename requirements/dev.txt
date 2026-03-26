@@ -26,7 +26,7 @@ cffi==2.0.0
     #   pynacl
 classify-imports==4.2.0
     # via reorder-python-imports
-cryptography==46.0.5
+cryptography==46.0.6
     # via paramiko
 decorator==5.2.1
     # via fabric
@@ -44,7 +44,7 @@ flake8==7.3.0
     # via -r requirements/dev.in
 greenlet==3.3.2
     # via pynvim
-importlib-metadata==8.8.0
+importlib-metadata==9.0.0
     # via docstring-to-markdown
 invoke==2.2.1
     # via
@@ -98,7 +98,7 @@ pydocstyle==6.3.0
     # via -r requirements/dev.in
 pyflakes==3.4.0
     # via flake8
-pygls==2.1.0
+pygls==2.1.1
     # via jedi-language-server
 pygments==2.19.2
     # via rich
@@ -120,7 +120,7 @@ snowballstemmer==3.0.1
     # via pydocstyle
 stevedore==5.7.0
     # via bandit
-tomli==2.4.0
+tomli==2.4.1
     # via
     #   mypy
     #   pylint
