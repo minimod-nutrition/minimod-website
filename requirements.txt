@@ -12,7 +12,7 @@ backrefs==6.2
     # via mkdocs-material
 certifi==2026.2.25
     # via requests
-charset-normalizer==3.4.6
+charset-normalizer==3.4.7
     # via requests
 click==8.3.1
     # via mkdocs
@@ -92,11 +92,11 @@ pathspec==1.0.4
     #   mkdocs-macros-plugin
 platformdirs==4.9.4
     # via mkdocs-get-deps
-pybtex==0.25.1
+pybtex==0.26.0
     # via mkdocs-bibtex
-pygments==2.19.2
+pygments==2.20.0
     # via mkdocs-material
-pymdown-extensions==10.21
+pymdown-extensions==10.21.2
     # via mkdocs-material
 pypandoc==1.17
     # via mkdocs-bibtex
@@ -119,7 +119,7 @@ pyyaml==6.0.3
     #   responses
 pyyaml-env-tag==1.1
     # via mkdocs
-requests==2.33.0
+requests==2.33.1
     # via
     #   mkdocs-bibtex
     #   mkdocs-macros-plugin

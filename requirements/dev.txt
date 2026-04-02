@@ -100,7 +100,7 @@ pyflakes==3.4.0
     # via flake8
 pygls==2.1.1
     # via jedi-language-server
-pygments==2.19.2
+pygments==2.20.0
     # via rich
 pyjslint==0.3.4
     # via -r requirements/dev.in
