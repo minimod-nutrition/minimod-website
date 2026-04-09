@@ -14,7 +14,7 @@ certifi==2026.2.25
     # via requests
 charset-normalizer==3.4.7
     # via requests
-click==8.3.1
+click==8.3.2
     # via mkdocs
 colorama==0.4.6
     # via mkdocs-material
@@ -90,9 +90,9 @@ pathspec==1.0.4
     # via
     #   mkdocs
     #   mkdocs-macros-plugin
-platformdirs==4.9.4
+platformdirs==4.9.6
     # via mkdocs-get-deps
-pybtex==0.26.0
+pybtex==0.26.1
     # via mkdocs-bibtex
 pygments==2.20.0
     # via mkdocs-material
@@ -137,7 +137,7 @@ tabulate==0.10.0
     # via mkdocs-table-reader-plugin
 termcolor==3.3.0
     # via mkdocs-macros-plugin
-tzdata==2025.3
+tzdata==2026.1
     # via pandas
 urllib3==2.6.3
     # via
