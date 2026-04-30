@@ -8,7 +8,7 @@ babel==2.18.0
     # via
     #   mkdocs-git-revision-date-localized-plugin
     #   mkdocs-material
-backrefs==6.2
+backrefs==7.0
     # via mkdocs-material
 certifi==2026.4.22
     # via requests
@@ -24,7 +24,7 @@ ghp-import==2.1.0
     # via mkdocs
 gitdb==4.0.12
     # via gitpython
-gitpython==3.1.47
+gitpython==3.1.49
     # via mkdocs-git-revision-date-localized-plugin
 hjson==3.1.0
     # via
@@ -78,7 +78,7 @@ numpy==2.2.6
     # via pandas
 openpyxl==3.1.5
     # via -r requirements.in
-packaging==26.1
+packaging==26.2
     # via
     #   mkdocs
     #   mkdocs-macros-plugin
@@ -86,7 +86,7 @@ paginate==0.5.7
     # via mkdocs-material
 pandas==2.3.3
     # via mkdocs-table-reader-plugin
-pathspec==1.1.0
+pathspec==1.1.1
     # via
     #   mkdocs
     #   mkdocs-macros-plugin
@@ -137,7 +137,7 @@ tabulate==0.10.0
     # via mkdocs-table-reader-plugin
 termcolor==3.3.0
     # via mkdocs-macros-plugin
-tzdata==2026.1
+tzdata==2026.2
     # via pandas
 urllib3==2.6.3
     # via
