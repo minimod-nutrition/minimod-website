@@ -24,7 +24,7 @@ ghp-import==2.1.0
     # via mkdocs
 gitdb==4.0.12
     # via gitpython
-gitpython==3.1.49
+gitpython==3.1.50
     # via mkdocs-git-revision-date-localized-plugin
 hjson==3.1.0
     # via
@@ -105,7 +105,7 @@ python-dateutil==2.9.0.post0
     #   ghp-import
     #   mkdocs-macros-plugin
     #   pandas
-pytz==2026.1.post1
+pytz==2026.2
     # via pandas
 pyyaml==6.0.3
     # via
@@ -139,7 +139,7 @@ termcolor==3.3.0
     # via mkdocs-macros-plugin
 tzdata==2026.2
     # via pandas
-urllib3==2.6.3
+urllib3==2.7.0
     # via
     #   requests
     #   responses
