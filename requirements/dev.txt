@@ -28,7 +28,7 @@ cffi==2.0.0
     #   pynacl
 classify-imports==4.2.0
     # via reorder-python-imports
-cryptography==48.0.0
+cryptography==48.0.1
     # via paramiko
 decorator==5.3.1
     # via fabric
@@ -74,7 +74,7 @@ mccabe==0.7.0
     #   pylint
 mdurl==0.1.2
     # via markdown-it-py
-msgpack==1.1.2
+msgpack==1.2.0
     # via pynvim
 mypy==2.1.0
     # via -r requirements/dev.in
