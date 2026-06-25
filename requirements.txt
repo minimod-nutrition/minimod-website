@@ -14,7 +14,7 @@ certifi==2026.6.17
     # via requests
 charset-normalizer==3.4.7
     # via requests
-click==8.4.1
+click==8.4.2
     # via mkdocs
 colorama==0.4.6
     # via mkdocs-material
@@ -96,7 +96,7 @@ pybtex==0.26.1
     # via mkdocs-bibtex
 pygments==2.20.0
     # via mkdocs-material
-pymdown-extensions==10.21.3
+pymdown-extensions==11.0
     # via mkdocs-material
 pypandoc==1.17
     # via mkdocs-bibtex
