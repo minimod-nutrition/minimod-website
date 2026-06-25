@@ -139,7 +139,7 @@ typing-extensions==4.15.0
     #   exceptiongroup
     #   mypy
     #   pynvim
-wrapt==2.2.1
+wrapt==2.2.2
     # via deprecated
 zipp==4.1.0
     # via importlib-metadata
