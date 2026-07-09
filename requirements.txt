@@ -12,7 +12,7 @@ backrefs==7.0
     # via mkdocs-material
 certifi==2026.6.17
     # via requests
-charset-normalizer==3.4.7
+charset-normalizer==3.4.9
     # via requests
 click==8.4.2
     # via mkdocs
@@ -96,7 +96,7 @@ pybtex==0.26.1
     # via mkdocs-bibtex
 pygments==2.20.0
     # via mkdocs-material
-pymdown-extensions==11.0
+pymdown-extensions==11.0.1
     # via mkdocs-material
 pypandoc==1.17
     # via mkdocs-bibtex
@@ -125,7 +125,7 @@ requests==2.34.2
     #   mkdocs-macros-plugin
     #   mkdocs-material
     #   responses
-responses==0.26.1
+responses==0.26.2
     # via mkdocs-bibtex
 six==1.17.0
     # via python-dateutil
